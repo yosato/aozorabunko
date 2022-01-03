@@ -4,10 +4,10 @@
 リズム	名詞,一般,*,*,*,*,リズム,リズム,リズム
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
 EOS
-眠_n_3242	形容詞,自立,*,*,形容詞・アウオ段,ガル接続,眠い,ネム,ネム	normalisable: normed, same form kept
+眠_n_6640_眠	形容詞,自立,*,*,形容詞・アウオ段,ガル接続,眠い,ネム,ネム	normalisable: normed, same form kept
 たげ	動詞,非自立,*,*,一段,連用形,たげる,タゲ,タゲ
 なる	助動詞,*,*,*,文語・ナリ,体言接続,なり,ナル,ナル
-洋	名詞,一般,*,*,*,*,洋,ヨウ,ヨー
+洋	名詞,一般,*,*,*,*,洋,ヨウ,ヨー	normalisable: left unnormed due to ambiguity, same form kept
 燈	名詞,一般,*,*,*,*,*
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 光り	動詞,自立,*,*,五段・ラ行,連用形,光る,ヒカリ,ヒカリ
@@ -22,30 +22,30 @@ EOS
 生	名詞,形容動詞語幹,*,*,*,*,生,ナマ,ナマ
 EOS
 九	名詞,数,*,*,*,*,九,キュウ,キュー
-時	名詞,接尾,助数詞,*,*,*,時,ジ,ジ
+時	名詞,接尾,助数詞,*,*,*,時,ジ,ジ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-聞き	動詞,自立,*,*,五段・カ行イ音便,連用形,聞く,キキ,キキ
+聞き	動詞,自立,*,*,五段・カ行イ音便,連用形,聞く,キキ,キキ	normalisable: left unnormed due to ambiguity, same form kept
 十	名詞,数,*,*,*,*,十,ジュウ,ジュー
-時	名詞,接尾,助数詞,*,*,*,時,ジ,ジ
+時	名詞,接尾,助数詞,*,*,*,時,ジ,ジ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-聞き	動詞,自立,*,*,五段・カ行イ音便,連用形,聞く,キキ,キキ
+聞き	動詞,自立,*,*,五段・カ行イ音便,連用形,聞く,キキ,キキ	normalisable: left unnormed due to ambiguity, same form kept
 EOS
-すべて	名詞,副詞可能,*,*,*,*,すべて,スベテ,スベテ
+すべて	名詞,副詞可能,*,*,*,*,すべて,スベテ,スベテ	normalisable: left unnormed due to ambiguity, same form kept
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
 眠り	名詞,一般,*,*,*,*,眠り,ネムリ,ネムリ
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-欲	名詞,一般,*,*,*,*,欲,ヨク,ヨク
-リス_n_2766_栗鼠	名詞,一般,*,*,*,*,りす,リス,リス	normalisable: normed, old orth: りす
+欲	名詞,一般,*,*,*,*,欲,ヨク,ヨク	normalisable: left unnormed due to ambiguity, same form kept
+リス_n_5582_栗鼠_りす	名詞,一般,*,*,*,*,りす,リス,リス	normalisable: normed, old orth: りす
 る	助動詞,*,*,*,文語・ル,基本形,る,ル,ル
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-時_n_28	名詞,非自立,副詞可能,*,*,*,時,トキ,トキ	normalisable: normed, same form kept
+時_n_70_時	名詞,非自立,副詞可能,*,*,*,時,トキ,トキ	normalisable: normed, same form kept
 EOS
-みな	名詞,代名詞,一般,*,*,*,みな,ミナ,ミナ
+皆_n_226_皆_みな	名詞,代名詞,一般,*,*,*,みな,ミナ,ミナ	normalisable: normed, old orth: みな
 底	名詞,一般,*,*,*,*,底,ソコ,ソコ
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 吐息	名詞,サ変接続,*,*,*,*,吐息,トイキ,トイキ
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-泡	名詞,一般,*,*,*,*,泡,アワ,アワ
+泡	名詞,一般,*,*,*,*,泡,アワ,アワ	normalisable: left unnormed due to ambiguity, same form kept
 と	助詞,格助詞,一般,*,*,*,と,ト,ト
 なり	動詞,自立,*,*,五段・ラ行,連用形,なる,ナリ,ナリ
 EOS
@@ -57,11 +57,11 @@ EOS
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
 EOS
 我	名詞,一般,*,*,*,*,我,ワガ,ワガ
-生	名詞,接尾,一般,*,*,*,生,セイ,セイ
+生	名詞,接尾,一般,*,*,*,生,セイ,セイ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 魂	名詞,一般,*,*,*,*,魂,タマシイ,タマシー
-と共に_n_379	助詞,格助詞,連語,*,*,*,と共に,トトモニ,トトモニ	normalisable: normed, same form kept
+と共に_n_837_と共に	助詞,格助詞,連語,*,*,*,と共に,トトモニ,トトモニ	normalisable: normed, same form kept
 かい	名詞,非自立,一般,*,*,*,かい,カイ,カイ
-のぼり	動詞,自立,*,*,五段・ラ行,連用形,のぼる,ノボリ,ノボリ
+のぼり	動詞,自立,*,*,五段・ラ行,連用形,のぼる,ノボリ,ノボリ	normalisable: left unnormed due to ambiguity, same form kept
 ゆく	動詞,非自立,*,*,五段・カ行促音便ユク,基本形,ゆく,ユク,ユク
 EOS

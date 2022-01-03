@@ -3,8 +3,8 @@
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 趾	名詞,一般,*,*,*,*,*
 せる	動詞,接尾,*,*,一段,基本形,せる,セル,セル
-物	名詞,非自立,一般,*,*,*,物,モノ,モノ
-語り	名詞,一般,*,*,*,*,語り,カタリ,カタリ
+物	名詞,非自立,一般,*,*,*,物,モノ,モノ	normalisable: left unnormed due to ambiguity, same form kept
+語り	名詞,一般,*,*,*,*,語り,カタリ,カタリ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 も	助詞,係助詞,*,*,*,*,も,モ,モ
 EOS
@@ -15,72 +15,72 @@ EOS
 れ	助動詞,*,*,*,文語・ル,未然形,る,レ,レ	normalisable: left unnormed due to ambiguity, same form kept
 EOS
 吾	名詞,一般,*,*,*,*,吾,ワレ,ワレ
-等	名詞,接尾,一般,*,*,*,等,トウ,トー
-生命	名詞,一般,*,*,*,*,生命,セイメイ,セイメイ
+等	名詞,接尾,一般,*,*,*,等,トウ,トー	normalisable: left unnormed due to ambiguity, same form kept
+生命	名詞,一般,*,*,*,*,生命,セイメイ,セイメイ	normalisable: left unnormed due to ambiguity, same form kept
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-土	名詞,一般,*,*,*,*,土,ド,ド
+土	名詞,一般,*,*,*,*,土,ド,ド	normalisable: left unnormed due to ambiguity, same form kept
 深く	形容詞,自立,*,*,形容詞・アウオ段,連用テ接続,深い,フカク,フカク
 埋もれ	動詞,自立,*,*,一段,連用形,埋もれる,ウズモレ,ウズモレ	normalisable: left unnormed due to ambiguity, same form kept
 し	助動詞,*,*,*,文語・キ,体言接続,き,シ,シ
-精霊	名詞,一般,*,*,*,*,精霊,セイレイ,セイレイ
+精霊	名詞,一般,*,*,*,*,精霊,セイレイ,セイレイ	normalisable: left unnormed due to ambiguity, same form kept
 なり	助動詞,*,*,*,文語・ナリ,基本形,なり,ナリ,ナリ
 き	助動詞,*,*,*,文語・キ,基本形,き,キ,キ
 EOS
-神	名詞,一般,*,*,*,*,神,カミ,カミ
+神	名詞,一般,*,*,*,*,神,カミ,カミ	normalisable: left unnormed due to ambiguity, same form kept
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
-より	動詞,自立,*,*,五段・ラ行,連用形,よる,ヨリ,ヨリ
+より	動詞,自立,*,*,五段・ラ行,連用形,よる,ヨリ,ヨリ	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
-つくら	動詞,自立,*,*,五段・ラ行,未然形,つくる,ツクラ,ツクラ
+つくら	動詞,自立,*,*,五段・ラ行,未然形,つくる,ツクラ,ツクラ	normalisable: left unnormed due to ambiguity, same form kept
 れ	動詞,接尾,*,*,一段,連用形,れる,レ,レ
 し	助動詞,*,*,*,文語・キ,体言接続,き,シ,シ
 形態	名詞,一般,*,*,*,*,形態,ケイタイ,ケイタイ
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 こそ	助詞,係助詞,*,*,*,*,こそ,コソ,コソ
-讃	名詞,一般,*,*,*,*,讃,サン,サン
-美	名詞,接尾,一般,*,*,*,美,ビ,ビ
+讃	名詞,一般,*,*,*,*,讃,サン,サン	normalisable: left unnormed due to ambiguity, same form kept
+美	名詞,接尾,一般,*,*,*,美,ビ,ビ	normalisable: left unnormed due to ambiguity, same form kept
 せる	動詞,接尾,*,*,一段,基本形,せる,セル,セル
 EOS
 女人	名詞,一般,*,*,*,*,女人,ニョニン,ニョニン
-像	名詞,接尾,一般,*,*,*,像,ゾウ,ゾー
+像	名詞,接尾,一般,*,*,*,像,ゾウ,ゾー	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-豊満	名詞,形容動詞語幹,*,*,*,*,豊満,ホウマン,ホーマン
+豊満	名詞,形容動詞語幹,*,*,*,*,豊満,ホウマン,ホーマン	normalisable: left unnormed due to ambiguity, same form kept
 なる	助動詞,*,*,*,文語・ナリ,体言接続,なり,ナル,ナル
 肉体美	名詞,一般,*,*,*,*,肉体美,ニクタイビ,ニクタイビ
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 こそ	助詞,係助詞,*,*,*,*,こそ,コソ,コソ
-讃	名詞,一般,*,*,*,*,讃,サン,サン
-美	名詞,接尾,一般,*,*,*,美,ビ,ビ
+讃	名詞,一般,*,*,*,*,讃,サン,サン	normalisable: left unnormed due to ambiguity, same form kept
+美	名詞,接尾,一般,*,*,*,美,ビ,ビ	normalisable: left unnormed due to ambiguity, same form kept
 せよ	動詞,自立,*,*,サ変・スル,命令ｙｏ,する,セヨ,セヨ
 EOS
 曲線	名詞,一般,*,*,*,*,曲線,キョクセン,キョクセン
-美	名詞,接尾,一般,*,*,*,美,ビ,ビ
+美	名詞,接尾,一般,*,*,*,美,ビ,ビ	normalisable: left unnormed due to ambiguity, same form kept
 なだらか	名詞,形容動詞語幹,*,*,*,*,なだらか,ナダラカ,ナダラカ
 に	助詞,副詞化,*,*,*,*,に,ニ,ニ
 走れる	動詞,自立,*,*,一段,基本形,走れる,ハシレル,ハシレル
-あたり	名詞,一般,*,*,*,*,あたり,アタリ,アタリ
+あたり	名詞,一般,*,*,*,*,あたり,アタリ,アタリ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-讃	名詞,一般,*,*,*,*,讃,サン,サン
-美	名詞,接尾,一般,*,*,*,美,ビ,ビ
+讃	名詞,一般,*,*,*,*,讃,サン,サン	normalisable: left unnormed due to ambiguity, same form kept
+美	名詞,接尾,一般,*,*,*,美,ビ,ビ	normalisable: left unnormed due to ambiguity, same form kept
 せよ	動詞,自立,*,*,サ変・スル,命令ｙｏ,する,セヨ,セヨ
 EOS
 而	名詞,一般,*,*,*,*,*
 し	動詞,自立,*,*,サ変・スル,連用形,する,シ,シ
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
-土	名詞,一般,*,*,*,*,土,ド,ド
+土	名詞,一般,*,*,*,*,土,ド,ド	normalisable: left unnormed due to ambiguity, same form kept
 へ	助詞,格助詞,一般,*,*,*,へ,ヘ,エ
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 感謝	名詞,サ変接続,*,*,*,*,感謝,カンシャ,カンシャ
-祭	名詞,接尾,一般,*,*,*,祭,サイ,サイ
+祭	名詞,接尾,一般,*,*,*,祭,サイ,サイ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 EOS
-土	名詞,一般,*,*,*,*,土,ド,ド
+土	名詞,一般,*,*,*,*,土,ド,ド	normalisable: left unnormed due to ambiguity, same form kept
 そ	名詞,接尾,助動詞語幹,*,*,*,そ,ソ,ソ
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
 EOS
-生命	名詞,一般,*,*,*,*,生命,セイメイ,セイメイ
+生命	名詞,一般,*,*,*,*,生命,セイメイ,セイメイ	normalisable: left unnormed due to ambiguity, same form kept
 偶像	名詞,一般,*,*,*,*,偶像,グウゾウ,グーゾー
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-聖母	名詞,一般,*,*,*,*,聖母,セイボ,セイボ
+聖母	名詞,一般,*,*,*,*,聖母,セイボ,セイボ	normalisable: left unnormed due to ambiguity, same form kept
 なり	動詞,自立,*,*,五段・ラ行,連用形,なる,ナリ,ナリ
 し	助動詞,*,*,*,文語・キ,体言接続,き,シ,シ
 EOS

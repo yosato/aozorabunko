@@ -1,15 +1,15 @@
 星	名詞,一般,*,*,*,*,星,ホシ,ホシ
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-或_n_0	連体詞,*,*,*,*,*,ある,アル,アル	normalisable: normed, old orth: ある
+或_n_1_或_ある	連体詞,*,*,*,*,*,ある,アル,アル	normalisable: normed, old orth: ある
 夜	名詞,副詞可能,*,*,*,*,夜,ヨル,ヨル
 EOS
-緑	名詞,一般,*,*,*,*,緑,ミドリ,ミドリ
+緑	名詞,一般,*,*,*,*,緑,ミドリ,ミドリ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-灯	名詞,一般,*,*,*,*,灯,アカリ,アカリ
+灯	名詞,一般,*,*,*,*,灯,アカリ,アカリ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 輝	名詞,一般,*,*,*,*,輝,テル,テル
 や	助詞,並立助詞,*,*,*,*,や,ヤ,ヤ
-かし	名詞,一般,*,*,*,*,かし,カシ,カシ
+かし	名詞,一般,*,*,*,*,かし,カシ,カシ	normalisable: left unnormed due to ambiguity, same form kept
 EOS
 仲よく	副詞,一般,*,*,*,*,仲よく,ナカヨク,ナカヨク	normalisable: left unnormed due to ambiguity, same form kept
 円座	名詞,一般,*,*,*,*,円座,エンザ,エンザ
@@ -20,14 +20,14 @@ EOS
 EOS
 星	名詞,一般,*,*,*,*,星,ホシ,ホシ
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-或_n_0	連体詞,*,*,*,*,*,ある,アル,アル	normalisable: normed, old orth: ある
+或_n_1_或_ある	連体詞,*,*,*,*,*,ある,アル,アル	normalisable: normed, old orth: ある
 夜	名詞,副詞可能,*,*,*,*,夜,ヨル,ヨル
 EOS
 右手	名詞,一般,*,*,*,*,右手,ミギテ,ミギテ
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-長く	形容詞,自立,*,*,形容詞・アウオ段,連用テ接続,長い,ナガク,ナガク
+長く	形容詞,自立,*,*,形容詞・アウオ段,連用テ接続,長い,ナガク,ナガク	normalisable: left unnormed due to ambiguity, same form kept
 さし	名詞,非自立,一般,*,*,*,さし,サシ,サシ
-伸べ	動詞,自立,*,*,一段,連用形,伸べる,ノベ,ノベ
+伸べ	動詞,自立,*,*,一段,連用形,伸べる,ノベ,ノベ	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
 EOS
 神秘	名詞,形容動詞語幹,*,*,*,*,神秘,シンピ,シンピ
@@ -40,11 +40,11 @@ EOS
 EOS
 星	名詞,一般,*,*,*,*,星,ホシ,ホシ
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-或_n_0	連体詞,*,*,*,*,*,ある,アル,アル	normalisable: normed, old orth: ある
+或_n_1_或_ある	連体詞,*,*,*,*,*,ある,アル,アル	normalisable: normed, old orth: ある
 夜	名詞,副詞可能,*,*,*,*,夜,ヨル,ヨル
 EOS
 さやさや	副詞,一般,*,*,*,*,さやさや,サヤサヤ,サヤサヤ
-さや	名詞,一般,*,*,*,*,さや,サヤ,サヤ
+さや	名詞,一般,*,*,*,*,さや,サヤ,サヤ	normalisable: left unnormed due to ambiguity, same form kept
 EOS
 清水	名詞,固有名詞,組織,*,*,*,清水,シミズ,シミズ
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
@@ -55,19 +55,19 @@ EOS
 EOS
 星	名詞,一般,*,*,*,*,星,ホシ,ホシ
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-或_n_0	連体詞,*,*,*,*,*,ある,アル,アル	normalisable: normed, old orth: ある
+或_n_1_或_ある	連体詞,*,*,*,*,*,ある,アル,アル	normalisable: normed, old orth: ある
 夜	名詞,副詞可能,*,*,*,*,夜,ヨル,ヨル
 EOS
-森林	名詞,一般,*,*,*,*,森林,シンリン,シンリン
+森林	名詞,一般,*,*,*,*,森林,シンリン,シンリン	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-小	接頭詞,名詞接続,*,*,*,*,小,ショウ,ショー
+小	接頭詞,名詞接続,*,*,*,*,小,ショウ,ショー	normalisable: left unnormed due to ambiguity, same form kept
 枝	名詞,一般,*,*,*,*,枝,エダ,エダ
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
 EOS
 小さな	連体詞,*,*,*,*,*,小さな,チイサナ,チーサナ
 首	名詞,一般,*,*,*,*,首,クビ,クビ
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-吊し	動詞,自立,*,*,五段・サ行,連用形,吊す,ツルシ,ツルシ
+吊し	動詞,自立,*,*,五段・サ行,連用形,吊す,ツルシ,ツルシ	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
 い	動詞,非自立,*,*,一段,連用形,いる,イ,イ
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ

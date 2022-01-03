@@ -1,32 +1,32 @@
 絵筆	名詞,一般,*,*,*,*,絵筆,エフデ,エフデ
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-かつい	動詞,自立,*,*,五段・ガ行,連用タ接続,かつぐ,カツイ,カツイ
+担い_n_3250_担い_かつい	動詞,自立,*,*,五段・ガ行,連用タ接続,かつぐ,カツイ,カツイ	normalisable: normed, old orth: かつい
 で	助詞,接続助詞,*,*,*,*,で,デ,デ
 EOS
 とぼとぼ	副詞,一般,*,*,*,*,とぼとぼ,トボトボ,トボトボ
 と	助詞,副詞化,*,*,*,*,と,ト,ト
 EOS
-荒野	名詞,一般,*,*,*,*,荒野,アラノ,アラノ
+荒野	名詞,一般,*,*,*,*,荒野,アラノ,アラノ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-中_n_17	名詞,非自立,副詞可能,*,*,*,中,ナカ,ナカ	normalisable: normed, same form kept
+中_n_46_中	名詞,非自立,副詞可能,*,*,*,中,ナカ,ナカ	normalisable: normed, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-さま_n_2575_様	名詞,一般,*,*,*,*,さま,サマ,サマ	normalisable: normed, same form kept
+さま_n_5248_様	名詞,一般,*,*,*,*,さま,サマ,サマ	normalisable: normed, same form kept
 よ	助詞,終助詞,*,*,*,*,よ,ヨ,ヨ
 へ	助詞,格助詞,一般,*,*,*,へ,ヘ,エ
 ば	助詞,接続助詞,*,*,*,*,ば,バ,バ
 EOS
-初めて	副詞,一般,*,*,*,*,初めて,ハジメテ,ハジメテ
-知	名詞,一般,*,*,*,*,知,チ,チ
+初めて	副詞,一般,*,*,*,*,初めて,ハジメテ,ハジメテ	normalisable: left unnormed due to ambiguity, same form kept
+知	名詞,一般,*,*,*,*,知,チ,チ	normalisable: left unnormed due to ambiguity, same form kept
 つた	名詞,固有名詞,人名,名,*,*,つた,ツタ,ツタ
 野中	名詞,一般,*,*,*,*,野中,ノナカ,ノナカ
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
 EOS
 EOS
-天	名詞,一般,*,*,*,*,天,テン,テン
+天	名詞,一般,*,*,*,*,天,テン,テン	normalisable: left unnormed due to ambiguity, same form kept
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
-続い_n_351	動詞,自立,*,*,五段・カ行イ音便,連用タ接続,続く,ツヅイ,ツズイ	normalisable: normed, same form kept
+続い_n_766_続い	動詞,自立,*,*,五段・カ行イ音便,連用タ接続,続く,ツヅイ,ツズイ	normalisable: normed, same form kept
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
-道	名詞,一般,*,*,*,*,道,ミチ,ミチ
+道	名詞,一般,*,*,*,*,道,ミチ,ミチ	normalisable: left unnormed due to ambiguity, same form kept
 が	助詞,格助詞,一般,*,*,*,が,ガ,ガ
 ある	動詞,自立,*,*,五段・ラ行,基本形,ある,アル,アル
 EOS
@@ -40,11 +40,11 @@ EOS
 EOS
 私	名詞,代名詞,一般,*,*,*,私,ワタシ,ワタシ
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-天	名詞,一般,*,*,*,*,天,テン,テン
+天	名詞,一般,*,*,*,*,天,テン,テン	normalisable: left unnormed due to ambiguity, same form kept
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
-続い_n_351	動詞,自立,*,*,五段・カ行イ音便,連用タ接続,続く,ツヅイ,ツズイ	normalisable: normed, same form kept
+続い_n_766_続い	動詞,自立,*,*,五段・カ行イ音便,連用タ接続,続く,ツヅイ,ツズイ	normalisable: normed, same form kept
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
-道	名詞,一般,*,*,*,*,道,ミチ,ミチ
+道	名詞,一般,*,*,*,*,道,ミチ,ミチ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 行く	動詞,自立,*,*,五段・カ行促音便,基本形,行く,イク,イク
 EOS

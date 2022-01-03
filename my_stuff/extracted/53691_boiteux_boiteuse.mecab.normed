@@ -1,10 +1,10 @@
-長	接頭詞,名詞接続,*,*,*,*,長,チョウ,チョー
-イモ	名詞,一般,*,*,*,*,イモ,イモ,イモ
+長	接頭詞,名詞接続,*,*,*,*,長,チョウ,チョー	normalisable: left unnormed due to ambiguity, same form kept
+イモ	名詞,一般,*,*,*,*,イモ,イモ,イモ	normalisable: left unnormed due to ambiguity, same form kept
 ノ	記号,一般,*,*,*,*,ノ,ノ,ノ
 EOS
 EOS
-短	接頭詞,名詞接続,*,*,*,*,短,タン,タン
-イモ	名詞,一般,*,*,*,*,イモ,イモ,イモ
+短	接頭詞,名詞接続,*,*,*,*,短,タン,タン	normalisable: left unnormed due to ambiguity, same form kept
+イモ	名詞,一般,*,*,*,*,イモ,イモ,イモ	normalisable: left unnormed due to ambiguity, same form kept
 ノ	記号,一般,*,*,*,*,ノ,ノ,ノ
 EOS
 EOS
@@ -13,7 +13,7 @@ EOS
 ×	記号,一般,*,*,*,*,×,カケル,カケル
 EOS
 然	副詞,一般,*,*,*,*,然,シカ,シカ
-シ	名詞,一般,*,*,*,*,シ,シ,シ
+シ	名詞,一般,*,*,*,*,シ,シ,シ	normalisable: left unnormed due to ambiguity, same form kept
 CROSS	名詞,一般,*,*,*,*,*
 ニハ	名詞,一般,*,*,*,*,*
 油	名詞,接尾,一般,*,*,*,油,ユ,ユ
@@ -25,9 +25,9 @@ EOS
 EOS
 已	名詞,一般,*,*,*,*,*
 ムヲ	名詞,一般,*,*,*,*,*
-得	名詞,一般,*,*,*,*,得,トク,トク
+得	名詞,一般,*,*,*,*,得,トク,トク	normalisable: left unnormed due to ambiguity, same form kept
 ナイ	名詞,一般,*,*,*,*,ナイ,ナイ,ナイ
-平行	名詞,サ変接続,*,*,*,*,平行,ヘイコウ,ヘイコー
+平行	名詞,サ変接続,*,*,*,*,平行,ヘイコウ,ヘイコー	normalisable: left unnormed due to ambiguity, same form kept
 EOS
 物理	名詞,一般,*,*,*,*,物理,ブツリ,ブツリ
 的	名詞,接尾,形容動詞語幹,*,*,*,的,テキ,テキ
@@ -45,7 +45,7 @@ EOS
 （	記号,括弧開,*,*,*,*,（,（,（
 以上	名詞,非自立,副詞可能,*,*,*,以上,イジョウ,イジョー
 平面	名詞,一般,*,*,*,*,平面,ヘイメン,ヘイメン
-幾何	名詞,一般,*,*,*,*,幾何,キカ,キカ
+幾何	名詞,一般,*,*,*,*,幾何,キカ,キカ	normalisable: left unnormed due to ambiguity, same form kept
 学	名詞,接尾,一般,*,*,*,学,ガク,ガク
 ）	記号,括弧閉,*,*,*,*,）,）,）
 ［＃	名詞,サ変接続,*,*,*,*,*
@@ -57,7 +57,7 @@ EOS
 ×	記号,一般,*,*,*,*,×,カケル,カケル
 EOS
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-れん	名詞,一般,*,*,*,*,れん,レン,レン
+れん	名詞,一般,*,*,*,*,れん,レン,レン	normalisable: left unnormed due to ambiguity, same form kept
 ぢ	名詞,一般,*,*,*,*,ぢ,ヂ,ジ
 EOS
 EOS
@@ -69,16 +69,16 @@ EOS
 ×	記号,一般,*,*,*,*,×,カケル,カケル
 EOS
 若	接頭詞,名詞接続,*,*,*,*,若,ワカ,ワカ
-シ	名詞,一般,*,*,*,*,シ,シ,シ
+シ	名詞,一般,*,*,*,*,シ,シ,シ	normalisable: left unnormed due to ambiguity, same form kept
 君	名詞,接尾,人名,*,*,*,君,クン,クン
-ガ	名詞,一般,*,*,*,*,ガ,ガ,ガ
-重症	名詞,一般,*,*,*,*,重症,ジュウショウ,ジューショー
+ガ	名詞,一般,*,*,*,*,ガ,ガ,ガ	normalisable: left unnormed due to ambiguity, same form kept
+重症	名詞,一般,*,*,*,*,重症,ジュウショウ,ジューショー	normalisable: left unnormed due to ambiguity, same form kept
 ヲ	助詞,格助詞,一般,*,*,*,ヲ,ヲ,ヲ
 負	接頭詞,名詞接続,*,*,*,*,負,フ,フ
 フタトシテモ	名詞,一般,*,*,*,*,*
-血	名詞,一般,*,*,*,*,血,チ,チ
+血	名詞,一般,*,*,*,*,血,チ,チ	normalisable: left unnormed due to ambiguity, same form kept
 ヲ	助詞,格助詞,一般,*,*,*,ヲ,ヲ,ヲ
-流	動詞,自立,*,*,一段,連用形,流る,ナガレ,ナガレ
+流	動詞,自立,*,*,一段,連用形,流る,ナガレ,ナガレ	normalisable: left unnormed due to ambiguity, same form kept
 シタトスレバ	名詞,一般,*,*,*,*,*
 味気	名詞,ナイ形容詞語幹,*,*,*,*,味気,アジケ,アジケ
 ナイ	名詞,一般,*,*,*,*,ナイ,ナイ,ナイ
@@ -94,11 +94,11 @@ EOS
 EOS
 沈黙	名詞,サ変接続,*,*,*,*,沈黙,チンモク,チンモク
 ヲ	助詞,格助詞,一般,*,*,*,ヲ,ヲ,ヲ
-如何	副詞,一般,*,*,*,*,如何,イカ,イカ
+如何_n_3341_如何	副詞,一般,*,*,*,*,如何,イカ,イカ	normalisable: normed, same form kept
 ニ	名詞,一般,*,*,*,*,*
 打撲	名詞,サ変接続,*,*,*,*,打撲,ダボク,ダボク
 シテ	名詞,固有名詞,組織,*,*,*,*
-俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ
+俺_n_1950_俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ	normalisable: normed, same form kept
 ハ	名詞,一般,*,*,*,*,*
 洪水	名詞,一般,*,*,*,*,洪水,コウズイ,コーズイ
 ノヨウニ	名詞,一般,*,*,*,*,*
@@ -111,14 +111,14 @@ EOS
 カ	名詞,一般,*,*,*,*,*
 EOS
 EOS
-召す_n_3579	動詞,自立,*,*,五段・サ行,基本形,めす,メス,メス	normalisable: normed, old orth: めす
+召す_n_7299_召す_めす	動詞,自立,*,*,五段・サ行,基本形,めす,メス,メス	normalisable: normed, old orth: めす
 ヲ	名詞,固有名詞,一般,*,*,*,ヲ,ヲ,オ
 持	名詞,サ変接続,*,*,*,*,持,ジ,ジ
 タヌトテ	名詞,一般,*,*,*,*,*
-医師	名詞,一般,*,*,*,*,医師,イシ,イシ
+医師	名詞,一般,*,*,*,*,医師,イシ,イシ	normalisable: left unnormed due to ambiguity, same form kept
 デ	助詞,格助詞,一般,*,*,*,デ,デ,デ
 アリ	名詞,固有名詞,人名,姓,*,*,アリ,アリ,アリ
-得	名詞,一般,*,*,*,*,得,トク,トク
+得	名詞,一般,*,*,*,*,得,トク,トク	normalisable: left unnormed due to ambiguity, same form kept
 ナイデアラウカ	名詞,一般,*,*,*,*,*
 EOS
 EOS
@@ -129,11 +129,11 @@ EOS
 裂	名詞,一般,*,*,*,*,*
 ケバ	名詞,一般,*,*,*,*,*
 音	名詞,接尾,一般,*,*,*,音,オン,オン
-位	名詞,接尾,一般,*,*,*,位,イ,イ
+位	名詞,接尾,一般,*,*,*,位,イ,イ	normalisable: left unnormed due to ambiguity, same form kept
 スルダラウ	名詞,一般,*,*,*,*,*
 EOS
 EOS
-俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ
+俺_n_1950_俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ	normalisable: normed, same form kept
 ノ	助詞,格助詞,一般,*,*,*,ノ,ノ,ノ
 歩調	名詞,一般,*,*,*,*,歩調,ホチョウ,ホチョー
 ハ	名詞,一般,*,*,*,*,*
@@ -141,14 +141,14 @@ EOS
 スル	名詞,一般,*,*,*,*,*
 EOS
 何	名詞,数,*,*,*,*,何,ナン,ナン
-時	名詞,接尾,助数詞,*,*,*,時,ジ,ジ
+時	名詞,接尾,助数詞,*,*,*,時,ジ,ジ	normalisable: left unnormed due to ambiguity, same form kept
 迄	助詞,副助詞,*,*,*,*,迄,マデ,マデ
 モ	名詞,固有名詞,一般,*,*,*,*
-俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ
+俺_n_1950_俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ	normalisable: normed, same form kept
 ハ	名詞,一般,*,*,*,*,*
-屍体	名詞,一般,*,*,*,*,屍体,シタイ,シタイ
+屍体	名詞,一般,*,*,*,*,屍体,シタイ,シタイ	normalisable: left unnormed due to ambiguity, same form kept
 デアラントシテ	名詞,一般,*,*,*,*,*
-屍体	名詞,一般,*,*,*,*,屍体,シタイ,シタイ
+屍体	名詞,一般,*,*,*,*,屍体,シタイ,シタイ	normalisable: left unnormed due to ambiguity, same form kept
 ナラヌコトデアラウカ	名詞,一般,*,*,*,*,*
 EOS
 ［	記号,括弧開,*,*,*,*,［,［,［
@@ -156,7 +156,7 @@ EOS
 地	名詞,接尾,一般,*,*,*,地,チ,チ
 から	助詞,格助詞,一般,*,*,*,から,カラ,カラ
 ３	名詞,数,*,*,*,*,３,サン,サン
-字	名詞,接尾,助数詞,*,*,*,字,ジ,ジ
+字	名詞,接尾,助数詞,*,*,*,字,ジ,ジ	normalisable: left unnormed due to ambiguity, same form kept
 上げ	名詞,一般,*,*,*,*,上げ,アゲ,アゲ
 ］	記号,括弧閉,*,*,*,*,］,］,］
 １	名詞,数,*,*,*,*,１,イチ,イチ
@@ -166,5 +166,5 @@ EOS
 ・	名詞,数,*,*,*,*,・,・,・
 ６	名詞,数,*,*,*,*,６,ロク,ロク
 ・	名詞,数,*,*,*,*,・,・,・
-５	名詞,数,*,*,*,*,５,ゴ,ゴ
+５	名詞,数,*,*,*,*,５,ゴ,ゴ	normalisable: left unnormed due to ambiguity, same form kept
 EOS

@@ -1,7 +1,7 @@
 今宵	名詞,副詞可能,*,*,*,*,今宵,コヨイ,コヨイ
 夜	名詞,副詞可能,*,*,*,*,夜,ヨル,ヨル
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-ふけ	動詞,自立,*,*,一段,連用形,ふける,フケ,フケ
+ふけ	動詞,自立,*,*,一段,連用形,ふける,フケ,フケ	normalisable: left unnormed due to ambiguity, same form kept
 たり	助詞,並立助詞,*,*,*,*,たり,タリ,タリ
 EOS
 闇夜	名詞,一般,*,*,*,*,闇夜,ヤミヨ,ヤミヨ
@@ -16,11 +16,11 @@ EOS
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 見る	動詞,自立,*,*,一段,基本形,見る,ミル,ミル
 EOS
-こ	名詞,一般,*,*,*,*,こ,コ,コ
+こ	名詞,一般,*,*,*,*,こ,コ,コ	normalisable: left unnormed due to ambiguity, same form kept
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-天	名詞,一般,*,*,*,*,天,テン,テン
+天	名詞,一般,*,*,*,*,天,テン,テン	normalisable: left unnormed due to ambiguity, same form kept
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
-懸かる	動詞,自立,*,*,五段・ラ行,基本形,懸かる,カカル,カカル
+懸かる	動詞,自立,*,*,五段・ラ行,基本形,懸かる,カカル,カカル	normalisable: left unnormed due to ambiguity, same form kept
 我	名詞,一般,*,*,*,*,我,ワガ,ワガ
 十字架	名詞,一般,*,*,*,*,十字架,ジュウジカ,ジュージカ
 なり	助動詞,*,*,*,文語・ナリ,基本形,なり,ナリ,ナリ
@@ -34,14 +34,14 @@ EOS
 なる	助動詞,*,*,*,文語・ナリ,体言接続,なり,ナル,ナル
 鼓動	名詞,サ変接続,*,*,*,*,鼓動,コドウ,コドー
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
-倦み	動詞,自立,*,*,五段・マ行,連用形,倦む,ウミ,ウミ
+倦み	動詞,自立,*,*,五段・マ行,連用形,倦む,ウミ,ウミ	normalisable: left unnormed due to ambiguity, same form kept
 EOS
 七	名詞,数,*,*,*,*,七,ナナ,ナナ	normalisable: left unnormed due to ambiguity, same form kept
 重	名詞,接尾,助数詞,*,*,*,重,ジュウ,ジュー
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 塁壁	名詞,一般,*,*,*,*,塁壁,ルイヘキ,ルイヘキ
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-超え	動詞,自立,*,*,一段,連用形,超える,コエ,コエ
+超え	動詞,自立,*,*,一段,連用形,超える,コエ,コエ	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
 至り	名詞,一般,*,*,*,*,至り,イタリ,イタリ	normalisable: left unnormed due to ambiguity, same form kept
 EOS
@@ -49,11 +49,11 @@ EOS
 が	助詞,格助詞,一般,*,*,*,が,ガ,ガ
 前	名詞,副詞可能,*,*,*,*,前,マエ,マエ
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
-静座	名詞,サ変接続,*,*,*,*,静座,セイザ,セイザ
+静座	名詞,サ変接続,*,*,*,*,静座,セイザ,セイザ	normalisable: left unnormed due to ambiguity, same form kept
 し	動詞,自立,*,*,サ変・スル,連用形,する,シ,シ
 EOS
-礼	名詞,一般,*,*,*,*,礼,レイ,レイ
-讃	名詞,一般,*,*,*,*,讃,サン,サン
+礼	名詞,一般,*,*,*,*,礼,レイ,レイ	normalisable: left unnormed due to ambiguity, same form kept
+讃	名詞,一般,*,*,*,*,讃,サン,サン	normalisable: left unnormed due to ambiguity, same form kept
 し	動詞,自立,*,*,サ変・スル,連用形,する,シ,シ
 祈祷	名詞,サ変接続,*,*,*,*,祈祷,キトウ,キトー
 す	動詞,自立,*,*,サ変・スル,文語基本形,する,ス,ス

@@ -1,6 +1,6 @@
-人手	名詞,一般,*,*,*,*,人手,ヒトデ,ヒトデ
+人手	名詞,一般,*,*,*,*,人手,ヒトデ,ヒトデ	normalisable: left unnormed due to ambiguity, same form kept
 なき	形容詞,自立,*,*,形容詞・アウオ段,体言接続,ない,ナキ,ナキ
-独り者	名詞,一般,*,*,*,*,独り者,ヒトリモノ,ヒトリモノ
+独り者	名詞,一般,*,*,*,*,独り者,ヒトリモノ,ヒトリモノ	normalisable: left unnormed due to ambiguity, same form kept
 EOS
 治	名詞,固有名詞,人名,名,*,*,治,オサム,オサム
 兵衛	名詞,固有名詞,地域,一般,*,*,兵衛,ヒョウエ,ヒョーエ
@@ -14,11 +14,11 @@ EOS
 し	動詞,自立,*,*,サ変・スル,連用形,する,シ,シ
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
 燃え	動詞,自立,*,*,一段,連用形,燃える,モエ,モエ	normalisable: left unnormed due to ambiguity, same form kept
-うつり	動詞,自立,*,*,五段・ラ行,連用形,うつる,ウツリ,ウツリ
+うつり	動詞,自立,*,*,五段・ラ行,連用形,うつる,ウツリ,ウツリ	normalisable: left unnormed due to ambiguity, same form kept
 EOS
-泡	名詞,一般,*,*,*,*,泡,アワ,アワ
+泡	名詞,一般,*,*,*,*,泡,アワ,アワ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-喰っ	動詞,自立,*,*,五段・ワ行促音便,連用タ接続,喰う,クッ,クッ
+喰っ	動詞,自立,*,*,五段・ワ行促音便,連用タ接続,喰う,クッ,クッ	normalisable: left unnormed due to ambiguity, same form kept
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 治	名詞,固有名詞,人名,名,*,*,治,オサム,オサム
 兵衛	名詞,固有名詞,地域,一般,*,*,兵衛,ヒョウエ,ヒョーエ
@@ -27,13 +27,13 @@ EOS
 麦	名詞,一般,*,*,*,*,麦,ムギ,ムギ
 束	名詞,一般,*,*,*,*,束,タバ,タバ
 もて	動詞,自立,*,*,一段,連用形,もてる,モテ,モテ	normalisable: left unnormed due to ambiguity, same form kept
-火	名詞,接尾,一般,*,*,*,火,ヒ,ヒ
+火	名詞,接尾,一般,*,*,*,火,ヒ,ヒ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-叩く	動詞,自立,*,*,五段・カ行イ音便,基本形,叩く,タタク,タタク
+叩く	動詞,自立,*,*,五段・カ行イ音便,基本形,叩く,タタク,タタク	normalisable: left unnormed due to ambiguity, same form kept
 EOS
 風	名詞,一般,*,*,*,*,風,カゼ,カゼ
-つのり	動詞,自立,*,*,五段・ラ行,連用形,つのる,ツノリ,ツノリ
-火	名詞,接尾,一般,*,*,*,火,ヒ,ヒ
+募り_n_6803_募り_つのり	動詞,自立,*,*,五段・ラ行,連用形,つのる,ツノリ,ツノリ	normalisable: normed, old orth: つのり
+火	名詞,接尾,一般,*,*,*,火,ヒ,ヒ	normalisable: left unnormed due to ambiguity, same form kept
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
 さかり	名詞,一般,*,*,*,*,さかり,サカリ,サカリ
 EOS
@@ -41,14 +41,14 @@ EOS
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
 せ	動詞,自立,*,*,サ変・スル,未然ヌ接続,する,セ,セ
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-凡て	名詞,副詞可能,*,*,*,*,凡て,スベテ,スベテ
+凡て	名詞,副詞可能,*,*,*,*,凡て,スベテ,スベテ	normalisable: left unnormed due to ambiguity, same form kept
 燃え	動詞,自立,*,*,一段,連用形,燃える,モエ,モエ	normalisable: left unnormed due to ambiguity, same form kept
 EOS
 治	名詞,固有名詞,人名,名,*,*,治,オサム,オサム
 兵衛	名詞,固有名詞,地域,一般,*,*,兵衛,ヒョウエ,ヒョーエ
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
 大	接頭詞,名詞接続,*,*,*,*,大,ダイ,ダイ
-火傷	名詞,サ変接続,*,*,*,*,火傷,カショウ,カショー
+火傷	名詞,サ変接続,*,*,*,*,火傷,カショウ,カショー	normalisable: left unnormed due to ambiguity, same form kept
 EOS
 やけど	名詞,一般,*,*,*,*,やけど,ヤケド,ヤケド
 し	動詞,自立,*,*,サ変・スル,連用形,する,シ,シ
@@ -60,20 +60,20 @@ EOS
 治	名詞,固有名詞,人名,名,*,*,治,オサム,オサム
 兵衛	名詞,固有名詞,地域,一般,*,*,兵衛,ヒョウエ,ヒョーエ
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-わめき	動詞,自立,*,*,五段・カ行イ音便,連用形,わめく,ワメキ,ワメキ
+喚き_n_1198_喚き_わめき	動詞,自立,*,*,五段・カ行イ音便,連用形,わめく,ワメキ,ワメキ	normalisable: normed, old orth: わめき
 つつ	助詞,接続助詞,*,*,*,*,つつ,ツツ,ツツ
 EOS
-こげ	動詞,自立,*,*,一段,連用形,こげる,コゲ,コゲ
-のこる	動詞,自立,*,*,五段・ラ行,基本形,のこる,ノコル,ノコル
+こげ	動詞,自立,*,*,一段,連用形,こげる,コゲ,コゲ	normalisable: left unnormed due to ambiguity, same form kept
+のこる	動詞,自立,*,*,五段・ラ行,基本形,のこる,ノコル,ノコル	normalisable: left unnormed due to ambiguity, same form kept
 麦	名詞,一般,*,*,*,*,麦,ムギ,ムギ
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-穂	名詞,一般,*,*,*,*,穂,ホ,ホ
+穂	名詞,一般,*,*,*,*,穂,ホ,ホ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 EOS
 かき集め	動詞,自立,*,*,一段,連用形,かき集める,カキアツメ,カキアツメ	normalisable: left unnormed due to ambiguity, same form kept
 かき集め	動詞,自立,*,*,一段,連用形,かき集める,カキアツメ,カキアツメ	normalisable: left unnormed due to ambiguity, same form kept
 EOS
-かなし	形容詞,自立,*,*,形容詞・イ段,ガル接続,かなしい,カナシ,カナシ
+かなし	形容詞,自立,*,*,形容詞・イ段,ガル接続,かなしい,カナシ,カナシ	normalisable: left unnormed due to ambiguity, same form kept
 さ	名詞,接尾,特殊,*,*,*,さ,サ,サ
 と	助詞,並立助詞,*,*,*,*,と,ト,ト
 痛	形容詞,自立,*,*,形容詞・アウオ段,ガル接続,痛い,イタ,イタ
@@ -90,8 +90,8 @@ EOS
 ＃	名詞,サ変接続,*,*,*,*,*
 地	名詞,接尾,一般,*,*,*,地,チ,チ
 から	助詞,格助詞,一般,*,*,*,から,カラ,カラ
-５	名詞,数,*,*,*,*,５,ゴ,ゴ
-字	名詞,接尾,助数詞,*,*,*,字,ジ,ジ
+５	名詞,数,*,*,*,*,５,ゴ,ゴ	normalisable: left unnormed due to ambiguity, same form kept
+字	名詞,接尾,助数詞,*,*,*,字,ジ,ジ	normalisable: left unnormed due to ambiguity, same form kept
 上げ	名詞,一般,*,*,*,*,上げ,アゲ,アゲ
 ］	記号,括弧閉,*,*,*,*,］,］,］
 一	名詞,数,*,*,*,*,一,イチ,イチ

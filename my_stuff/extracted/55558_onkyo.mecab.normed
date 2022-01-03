@@ -1,4 +1,4 @@
-一切	名詞,副詞可能,*,*,*,*,一切,イッサイ,イッサイ
+一切	名詞,副詞可能,*,*,*,*,一切,イッサイ,イッサイ	normalisable: left unnormed due to ambiguity, same form kept
 宇宙	名詞,一般,*,*,*,*,宇宙,ウチュウ,ウチュー
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 音響	名詞,一般,*,*,*,*,音響,オンキョウ,オンキョー
@@ -13,15 +13,15 @@ EOS
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
 無韻	名詞,一般,*,*,*,*,無韻,ムイン,ムイン
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-国土	名詞,一般,*,*,*,*,国土,コクド,コクド
+国土	名詞,一般,*,*,*,*,国土,コクド,コクド	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 王	名詞,一般,*,*,*,*,王,オウ,オー
 たら	助動詞,*,*,*,文語・ナリ,未然形,たり,タラ,タラ
 しめよ	動詞,接尾,*,*,一段,未然ウ接続,しめる,シメヨ,シメヨ	normalisable: left unnormed due to ambiguity, same form kept
 EOS
-かく	名詞,一般,*,*,*,*,かく,カク,カク
+かく	名詞,一般,*,*,*,*,かく,カク,カク	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,格助詞,連語,*,*,*,て,テ,テ
-孤	名詞,一般,*,*,*,*,孤,コ,コ
+孤	名詞,一般,*,*,*,*,孤,コ,コ	normalisable: left unnormed due to ambiguity, same form kept
 り	助動詞,*,*,*,文語・リ,基本形,り,リ,リ
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 声	名詞,一般,*,*,*,*,声,コエ,コエ

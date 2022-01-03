@@ -1,6 +1,6 @@
 石狩	名詞,固有名詞,人名,姓,*,*,石狩,イシカリ,イシカリ
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-川	名詞,一般,*,*,*,*,川,カワ,カワ
+川	名詞,一般,*,*,*,*,川,カワ,カワ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 流れ	名詞,一般,*,*,*,*,流れ,ナガレ,ナガレ
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
@@ -11,18 +11,18 @@ EOS
 人種	名詞,一般,*,*,*,*,人種,ジンシュ,ジンシュ
 が	助詞,格助詞,一般,*,*,*,が,ガ,ガ
 毒	名詞,一般,*,*,*,*,毒,ドク,ドク
-木	名詞,一般,*,*,*,*,木,キ,キ
-矢	名詞,一般,*,*,*,*,矢,ヤ,ヤ
+木	名詞,一般,*,*,*,*,木,キ,キ	normalisable: left unnormed due to ambiguity, same form kept
+矢	名詞,一般,*,*,*,*,矢,ヤ,ヤ	normalisable: left unnormed due to ambiguity, same form kept
 も	助詞,係助詞,*,*,*,*,も,モ,モ
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
-意気	名詞,形容動詞語幹,*,*,*,*,意気,イキ,イキ
+意気	名詞,形容動詞語幹,*,*,*,*,意気,イキ,イキ	normalisable: left unnormed due to ambiguity, same form kept
 づく	動詞,自立,*,*,五段・カ行イ音便,基本形,づく,ヅク,ズク
 EOS
 古風	名詞,形容動詞語幹,*,*,*,*,古風,コフウ,コフー
 な	助動詞,*,*,*,特殊・ダ,体言接続,だ,ナ,ナ
 姿	名詞,一般,*,*,*,*,姿,スガタ,スガタ
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-写し	動詞,自立,*,*,五段・サ行,連用形,写す,ウツシ,ウツシ
+写し	動詞,自立,*,*,五段・サ行,連用形,写す,ウツシ,ウツシ	normalisable: left unnormed due to ambiguity, same form kept
 つつ	助詞,接続助詞,*,*,*,*,つつ,ツツ,ツツ
 EOS
 そ	名詞,特殊,助動詞語幹,*,*,*,そ,ソ,ソ
@@ -31,18 +31,18 @@ EOS
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
 幻	名詞,一般,*,*,*,*,幻,マボロシ,マボロシ
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-画く	動詞,自立,*,*,五段・カ行イ音便,基本形,画く,エガク,エガク
+画く	動詞,自立,*,*,五段・カ行イ音便,基本形,画く,エガク,エガク	normalisable: left unnormed due to ambiguity, same form kept
 平和	名詞,形容動詞語幹,*,*,*,*,平和,ヘイワ,ヘイワ
 なる	助動詞,*,*,*,文語・ナリ,体言接続,なり,ナル,ナル
 村	名詞,一般,*,*,*,*,村,ムラ,ムラ	normalisable: left unnormed due to ambiguity, same form kept
-郷	名詞,一般,*,*,*,*,郷,サト,サト
+郷	名詞,一般,*,*,*,*,郷,サト,サト	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-中_n_17	名詞,非自立,副詞可能,*,*,*,中,ナカ,ナカ	normalisable: normed, same form kept
+中_n_46_中	名詞,非自立,副詞可能,*,*,*,中,ナカ,ナカ	normalisable: normed, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 EOS
 岩	名詞,一般,*,*,*,*,岩,イワ,イワ
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
-激し	形容詞,自立,*,*,形容詞・イ段,ガル接続,激しい,ハゲシ,ハゲシ
+激し	形容詞,自立,*,*,形容詞・イ段,ガル接続,激しい,ハゲシ,ハゲシ	normalisable: left unnormed due to ambiguity, same form kept
 砂辺	名詞,固有名詞,地域,一般,*,*,砂辺,スナベ,スナベ
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
 寄せ	動詞,自立,*,*,一段,連用形,寄せる,ヨセ,ヨセ	normalisable: left unnormed due to ambiguity, same form kept

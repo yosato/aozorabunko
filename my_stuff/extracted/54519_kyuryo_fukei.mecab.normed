@@ -1,12 +1,12 @@
 傾斜	名詞,サ変接続,*,*,*,*,傾斜,ケイシャ,ケイシャ
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-丘	名詞,一般,*,*,*,*,丘,オカ,オカ
+丘	名詞,一般,*,*,*,*,丘,オカ,オカ	normalisable: left unnormed due to ambiguity, same form kept
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
 EOS
 菜の花	名詞,一般,*,*,*,*,菜の花,ナノハナ,ナノハナ
 ｜	記号,一般,*,*,*,*,｜,｜,｜
-黄	名詞,一般,*,*,*,*,黄,キ,キ
-ろ	名詞,一般,*,*,*,*,ろ,ロ,ロ
+黄	名詞,一般,*,*,*,*,黄,キ,キ	normalisable: left unnormed due to ambiguity, same form kept
+ろ	名詞,一般,*,*,*,*,ろ,ロ,ロ	normalisable: left unnormed due to ambiguity, same form kept
 く	形容詞,自立,*,*,形容詞・アウオ段,ガル接続,くい,ク,ク
 咲け	動詞,自立,*,*,五段・カ行イ音便,仮定形,咲く,サケ,サケ
 ば	助詞,接続助詞,*,*,*,*,ば,バ,バ
@@ -16,20 +16,20 @@ EOS
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 頭	名詞,一般,*,*,*,*,頭,アタマ,アタマ
 二	名詞,数,*,*,*,*,二,ニ,ニ
-個	名詞,接尾,助数詞,*,*,*,個,コ,コ
+個	名詞,接尾,助数詞,*,*,*,個,コ,コ	normalisable: left unnormed due to ambiguity, same form kept
 ばかり	助詞,副助詞,*,*,*,*,ばかり,バカリ,バカリ
 EOS
-丘陵	名詞,一般,*,*,*,*,丘陵,キュウリョウ,キューリョー
+丘陵	名詞,一般,*,*,*,*,丘陵,キュウリョウ,キューリョー	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-蔭	名詞,一般,*,*,*,*,蔭,カゲ,カゲ
+蔭	名詞,一般,*,*,*,*,蔭,カゲ,カゲ	normalisable: left unnormed due to ambiguity, same form kept
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
-並び	動詞,自立,*,*,五段・バ行,連用形,並ぶ,ナラビ,ナラビ
+並び	動詞,自立,*,*,五段・バ行,連用形,並ぶ,ナラビ,ナラビ	normalisable: left unnormed due to ambiguity, same form kept
 出	名詞,接尾,一般,*,*,*,出,デ,デ
 で	助詞,格助詞,一般,*,*,*,で,デ,デ
 EOS
-銃	名詞,一般,*,*,*,*,銃,ジュウ,ジュー
+銃	名詞,一般,*,*,*,*,銃,ジュウ,ジュー	normalisable: left unnormed due to ambiguity, same form kept
 先	名詞,接尾,一般,*,*,*,先,サキ,サキ
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-見せ	動詞,自立,*,*,一段,連用形,見せる,ミセ,ミセ
+見せ	動詞,自立,*,*,一段,連用形,見せる,ミセ,ミセ	normalisable: left unnormed due to ambiguity, same form kept
 すぐる	動詞,自立,*,*,五段・ラ行,基本形,すぐる,スグル,スグル
 EOS

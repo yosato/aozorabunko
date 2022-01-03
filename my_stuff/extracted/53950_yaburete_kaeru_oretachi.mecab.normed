@@ -1,49 +1,49 @@
 涙	名詞,一般,*,*,*,*,涙,ナミダ,ナミダ
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-頬	名詞,一般,*,*,*,*,頬,ホオ,ホー
+頬	名詞,一般,*,*,*,*,頬,ホオ,ホー	normalisable: left unnormed due to ambiguity, same form kept
 っ	動詞,非自立,*,*,五段・カ行促音便,連用タ接続,く,ッ,ッ
 ぺた	名詞,一般,*,*,*,*,*
 で	助詞,格助詞,一般,*,*,*,で,デ,デ
-乾い	動詞,自立,*,*,五段・カ行イ音便,連用タ接続,乾く,カワイ,カワイ
+乾い	動詞,自立,*,*,五段・カ行イ音便,連用タ接続,乾く,カワイ,カワイ	normalisable: left unnormed due to ambiguity, same form kept
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 EOS
-怒り	名詞,一般,*,*,*,*,怒り,イカリ,イカリ
+怒り	名詞,一般,*,*,*,*,怒り,イカリ,イカリ	normalisable: left unnormed due to ambiguity, same form kept
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-胃	名詞,一般,*,*,*,*,胃,イ,イ
+胃	名詞,一般,*,*,*,*,胃,イ,イ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 底	名詞,一般,*,*,*,*,底,ソコ,ソコ
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
-よどん	動詞,自立,*,*,五段・マ行,連用タ接続,よどむ,ヨドン,ヨドン
+よどん	動詞,自立,*,*,五段・マ行,連用タ接続,よどむ,ヨドン,ヨドン	normalisable: left unnormed due to ambiguity, same form kept
 だ	助動詞,*,*,*,特殊・タ,基本形,だ,ダ,ダ
 EOS
 にがい	形容詞,自立,*,*,形容詞・アウオ段,基本形,にがい,ニガイ,ニガイ
 にがい	形容詞,自立,*,*,形容詞・アウオ段,基本形,にがい,ニガイ,ニガイ
-空っぽ_n_1670	名詞,一般,*,*,*,*,空っぽ,カラッポ,カラッポ	normalisable: normed, same form kept
+空っぽ_n_3495_空っぽ	名詞,一般,*,*,*,*,空っぽ,カラッポ,カラッポ	normalisable: normed, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-胃	名詞,一般,*,*,*,*,胃,イ,イ
+胃	名詞,一般,*,*,*,*,胃,イ,イ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 底	名詞,一般,*,*,*,*,底,ソコ,ソコ
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
 。	記号,句点,*,*,*,*,。,。,。
 EOS
-俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ
-達	名詞,接尾,一般,*,*,*,達,タチ,タチ
+俺_n_1950_俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ	normalisable: normed, same form kept
+たち_n_196_達_達	名詞,接尾,一般,*,*,*,達,タチ,タチ	normalisable: normed, old orth: 達
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ
+負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ	normalisable: left unnormed due to ambiguity, same form kept
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 、	記号,読点,*,*,*,*,、,、,、
 おお	感動詞,*,*,*,*,*,おお,オオ,オー
-負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ
+負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
 しも	助詞,副助詞,*,*,*,*,しも,シモ,シモ
-うた	名詞,一般,*,*,*,*,うた,ウタ,ウタ
+うた	名詞,一般,*,*,*,*,うた,ウタ,ウタ	normalisable: left unnormed due to ambiguity, same form kept
 。	記号,句点,*,*,*,*,。,。,。
 EOS
 EOS
-俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ
-達	名詞,接尾,一般,*,*,*,達,タチ,タチ
+俺_n_1950_俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ	normalisable: normed, same form kept
+たち_n_196_達_達	名詞,接尾,一般,*,*,*,達,タチ,タチ	normalisable: normed, old orth: 達
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ
+負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ	normalisable: left unnormed due to ambiguity, same form kept
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 ！	記号,一般,*,*,*,*,！,！,！
 EOS
@@ -52,15 +52,15 @@ EOS
 の	助詞,格助詞,一般,*,*,*,の,ノ,ノ
 歩い	動詞,自立,*,*,五段・カ行イ音便,連用タ接続,歩く,アルイ,アルイ
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
-帰る	動詞,自立,*,*,五段・ラ行,基本形,帰る,カエル,カエル
-足	名詞,一般,*,*,*,*,足,アシ,アシ
+帰る	動詞,自立,*,*,五段・ラ行,基本形,帰る,カエル,カエル	normalisable: left unnormed due to ambiguity, same form kept
+足	名詞,一般,*,*,*,*,足,アシ,アシ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-重_n_2196	形容詞,自立,*,*,形容詞・アウオ段,ガル接続,重い,オモ,オモ	normalisable: normed, same form kept
+重_n_4506_重	形容詞,自立,*,*,形容詞・アウオ段,ガル接続,重い,オモ,オモ	normalisable: normed, same form kept
 さ	名詞,接尾,特殊,*,*,*,さ,サ,サ
 よ	助詞,終助詞,*,*,*,*,よ,ヨ,ヨ
 。	記号,句点,*,*,*,*,。,。,。
 EOS
-憶え	動詞,自立,*,*,一段,連用形,憶える,オボエ,オボエ
+憶え	動詞,自立,*,*,一段,連用形,憶える,オボエ,オボエ	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
 置こ	動詞,自立,*,*,五段・カ行イ音便,未然ウ接続,置く,オコ,オコ	normalisable: left unnormed due to ambiguity, same form kept
 う	助動詞,*,*,*,不変化型,基本形,う,ウ,ウ
@@ -68,25 +68,25 @@ EOS
 、	記号,読点,*,*,*,*,、,、,、
 此	名詞,一般,*,*,*,*,*
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-足	名詞,一般,*,*,*,*,足,アシ,アシ
+足	名詞,一般,*,*,*,*,足,アシ,アシ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-重_n_2196	形容詞,自立,*,*,形容詞・アウオ段,ガル接続,重い,オモ,オモ	normalisable: normed, same form kept
+重_n_4506_重	形容詞,自立,*,*,形容詞・アウオ段,ガル接続,重い,オモ,オモ	normalisable: normed, same form kept
 さ	名詞,接尾,特殊,*,*,*,さ,サ,サ
 EOS
-聞い	動詞,自立,*,*,五段・カ行イ音便,連用タ接続,聞く,キイ,キイ
+聞い	動詞,自立,*,*,五段・カ行イ音便,連用タ接続,聞く,キイ,キイ	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
 呉れよ	動詞,自立,*,*,一段・クレル,命令ｙｏ,呉れる,クレヨ,クレヨ
 、	記号,読点,*,*,*,*,、,、,、
 しょびい	動詞,自立,*,*,五段・カ行イ音便,連用タ接続,しょびく,ショビイ,ショビイ
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
-行か_n_1334	動詞,非自立,*,*,五段・カ行促音便,未然形,行く,イカ,イカ	normalisable: normed, same form kept
+行か_n_2810_行か	動詞,非自立,*,*,五段・カ行促音便,未然形,行く,イカ,イカ	normalisable: normed, same form kept
 れ	動詞,接尾,*,*,一段,連用形,れる,レ,レ
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
-伜	名詞,一般,*,*,*,*,伜,セガレ,セガレ
+伜	名詞,一般,*,*,*,*,伜,セガレ,セガレ	normalisable: left unnormed due to ambiguity, same form kept
 よ	助詞,終助詞,*,*,*,*,よ,ヨ,ヨ
 EOS
 冷たい	形容詞,自立,*,*,形容詞・アウオ段,基本形,冷たい,ツメタイ,ツメタイ
-監房	名詞,一般,*,*,*,*,監房,カンボウ,カンボー
+監房	名詞,一般,*,*,*,*,監房,カンボウ,カンボー	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 壁	名詞,一般,*,*,*,*,壁,カベ,カベ
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
@@ -96,50 +96,50 @@ EOS
 EOS
 うなだれ	動詞,自立,*,*,一段,連用形,うなだれる,ウナダレ,ウナダレ
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
-帰る	動詞,自立,*,*,五段・ラ行,基本形,帰る,カエル,カエル
-親父	名詞,一般,*,*,*,*,親父,オヤジ,オヤジ
+帰る	動詞,自立,*,*,五段・ラ行,基本形,帰る,カエル,カエル	normalisable: left unnormed due to ambiguity, same form kept
+親父	名詞,一般,*,*,*,*,親父,オヤジ,オヤジ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 足音	名詞,一般,*,*,*,*,足音,アシオト,アシオト
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 よ	助詞,終助詞,*,*,*,*,よ,ヨ,ヨ
 。	記号,句点,*,*,*,*,。,。,。
 EOS
-お前_n_84	名詞,代名詞,一般,*,*,*,お前,オマエ,オマエ	normalisable: normed, same form kept
+お前_n_195_お前	名詞,代名詞,一般,*,*,*,お前,オマエ,オマエ	normalisable: normed, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-おふくろ	名詞,一般,*,*,*,*,おふくろ,オフクロ,オフクロ
+おふくろ_n_6651_お袋	名詞,一般,*,*,*,*,おふくろ,オフクロ,オフクロ	normalisable: normed, same form kept
 が	助詞,格助詞,一般,*,*,*,が,ガ,ガ
-咳	名詞,一般,*,*,*,*,咳,セキ,セキ
+咳	名詞,一般,*,*,*,*,咳,セキ,セキ	normalisable: left unnormed due to ambiguity, same form kept
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
-攻め	動詞,自立,*,*,一段,未然形,攻める,セメ,セメ
-られ	動詞,接尾,*,*,一段,連用形,られる,ラレ,ラレ
+攻め	動詞,自立,*,*,一段,未然形,攻める,セメ,セメ	normalisable: left unnormed due to ambiguity, same form kept
+られ	動詞,接尾,*,*,一段,連用形,られる,ラレ,ラレ	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
-寝	動詞,自立,*,*,一段,連用形,寝る,ネ,ネ
+寝	動詞,自立,*,*,一段,連用形,寝る,ネ,ネ	normalisable: left unnormed due to ambiguity, same form kept
 てる	動詞,非自立,*,*,一段,基本形,てる,テル,テル
 EOS
 暗い	形容詞,自立,*,*,形容詞・アウオ段,基本形,暗い,クライ,クライ
 家	名詞,一般,*,*,*,*,家,イエ,イエ
 まで	助詞,副助詞,*,*,*,*,まで,マデ,マデ
-半	接頭詞,名詞接続,*,*,*,*,半,ハン,ハン
-里	名詞,一般,*,*,*,*,里,サト,サト
+半	接頭詞,名詞接続,*,*,*,*,半,ハン,ハン	normalisable: left unnormed due to ambiguity, same form kept
+里	名詞,一般,*,*,*,*,里,サト,サト	normalisable: left unnormed due to ambiguity, same form kept
 だ	助動詞,*,*,*,特殊・ダ,基本形,だ,ダ,ダ
 。	記号,句点,*,*,*,*,。,。,。
 EOS
-青い	形容詞,自立,*,*,形容詞・アウオ段,基本形,青い,アオイ,アオイ
+青い	形容詞,自立,*,*,形容詞・アウオ段,基本形,青い,アオイ,アオイ	normalisable: left unnormed due to ambiguity, same form kept
 空	名詞,一般,*,*,*,*,空,ソラ,ソラ
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
-赤	名詞,一般,*,*,*,*,赤,アカ,アカ
+赤	名詞,一般,*,*,*,*,赤,アカ,アカ	normalisable: left unnormed due to ambiguity, same form kept
 ［＃「	名詞,サ変接続,*,*,*,*,*
-赤	名詞,一般,*,*,*,*,赤,アカ,アカ
+赤	名詞,一般,*,*,*,*,赤,アカ,アカ	normalisable: left unnormed due to ambiguity, same form kept
 」	記号,括弧閉,*,*,*,*,」,」,」
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
-ばつ	名詞,一般,*,*,*,*,ばつ,バツ,バツ
+ばつ	名詞,一般,*,*,*,*,ばつ,バツ,バツ	normalisable: left unnormed due to ambiguity, same form kept
 傍点	名詞,一般,*,*,*,*,傍点,ボウテン,ボーテン
 ］	記号,括弧閉,*,*,*,*,］,］,］
-い	名詞,一般,*,*,*,*,い,イ,イ
-旗	名詞,接尾,一般,*,*,*,旗,キ,キ
+い	名詞,一般,*,*,*,*,い,イ,イ	normalisable: left unnormed due to ambiguity, same form kept
+旗	名詞,接尾,一般,*,*,*,旗,キ,キ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-ビラ	名詞,一般,*,*,*,*,ビラ,ビラ,ビラ
-ビラ	名詞,一般,*,*,*,*,ビラ,ビラ,ビラ
+ビラ	名詞,一般,*,*,*,*,ビラ,ビラ,ビラ	normalisable: left unnormed due to ambiguity, same form kept
+ビラ	名詞,一般,*,*,*,*,ビラ,ビラ,ビラ	normalisable: left unnormed due to ambiguity, same form kept
 な	助動詞,*,*,*,特殊・ダ,体言接続,だ,ナ,ナ
 びく	副詞,助詞類接続,*,*,*,*,びく,ビク,ビク
 EOS
@@ -156,21 +156,21 @@ EOS
 指	名詞,一般,*,*,*,*,指,ユビ,ユビ
 から	助詞,格助詞,一般,*,*,*,から,カラ,カラ
 にじみ出る	動詞,自立,*,*,一段,基本形,にじみ出る,ニジミデル,ニジミデル
-血	名詞,一般,*,*,*,*,血,チ,チ
+血	名詞,一般,*,*,*,*,血,チ,チ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 EOS
 この	連体詞,*,*,*,*,*,この,コノ,コノ
 焼ける	動詞,自立,*,*,一段,基本形,焼ける,ヤケル,ヤケル	normalisable: left unnormed due to ambiguity, same form kept
-歯	名詞,一般,*,*,*,*,歯,ハ,ハ
+歯	名詞,一般,*,*,*,*,歯,ハ,ハ	normalisable: left unnormed due to ambiguity, same form kept
 で	助詞,格助詞,一般,*,*,*,で,デ,デ
-噛み	動詞,自立,*,*,五段・マ行,連用形,噛む,カミ,カミ
+噛み	動詞,自立,*,*,五段・マ行,連用形,噛む,カミ,カミ	normalisable: left unnormed due to ambiguity, same form kept
 ながら	助詞,接続助詞,*,*,*,*,ながら,ナガラ,ナガラ
-帰る	動詞,自立,*,*,五段・ラ行,基本形,帰る,カエル,カエル
+帰る	動詞,自立,*,*,五段・ラ行,基本形,帰る,カエル,カエル	normalisable: left unnormed due to ambiguity, same form kept
 ぞ	助詞,終助詞,*,*,*,*,ぞ,ゾ,ゾ
 ！	記号,一般,*,*,*,*,！,！,！
 EOS
 EOS
-痛み	動詞,自立,*,*,五段・マ行,連用形,痛む,イタミ,イタミ
+痛み	動詞,自立,*,*,五段・マ行,連用形,痛む,イタミ,イタミ	normalisable: left unnormed due to ambiguity, same form kept
 うずく	動詞,自立,*,*,五段・カ行イ音便,基本形,うずく,ウズク,ウズク
 節々	名詞,一般,*,*,*,*,節々,フシブシ,フシブシ
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
@@ -179,27 +179,27 @@ EOS
 それ	名詞,代名詞,一般,*,*,*,それ,ソレ,ソレ
 だ	助動詞,*,*,*,特殊・ダ,基本形,だ,ダ,ダ
 と	助詞,格助詞,引用,*,*,*,と,ト,ト
-言っ	動詞,自立,*,*,五段・ワ行促音便,連用タ接続,言う,イッ,イッ
+言っ_n_102_言っ	動詞,自立,*,*,五段・ワ行促音便,連用タ接続,言う,イッ,イッ	normalisable: normed, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
 、	記号,読点,*,*,*,*,、,、,、
-兄弟	名詞,一般,*,*,*,*,兄弟,キョウダイ,キョーダイ
+兄弟	名詞,一般,*,*,*,*,兄弟,キョウダイ,キョーダイ	normalisable: left unnormed due to ambiguity, same form kept
 ！	記号,一般,*,*,*,*,！,！,！
 EOS
-俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ
-達	名詞,接尾,一般,*,*,*,達,タチ,タチ
+俺_n_1950_俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ	normalisable: normed, same form kept
+たち_n_196_達_達	名詞,接尾,一般,*,*,*,達,タチ,タチ	normalisable: normed, old orth: 達
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-ガン	名詞,一般,*,*,*,*,ガン,ガン,ガン
-張り_n_151	名詞,接尾,一般,*,*,*,張り,バリ,バリ	normalisable: normed, same form kept
+ガン	名詞,一般,*,*,*,*,ガン,ガン,ガン	normalisable: left unnormed due to ambiguity, same form kept
+張り_n_320_張り	名詞,接尾,一般,*,*,*,張り,バリ,バリ	normalisable: normed, same form kept
 が	助詞,格助詞,一般,*,*,*,が,ガ,ガ
-たり	動詞,自立,*,*,一段,未然形,たりる,タリ,タリ
+たり	動詞,自立,*,*,一段,未然形,たりる,タリ,タリ	normalisable: left unnormed due to ambiguity, same form kept
 なかっ	助動詞,*,*,*,特殊・ナイ,連用タ接続,ない,ナカッ,ナカッ
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 の	名詞,非自立,一般,*,*,*,の,ノ,ノ
 か	助詞,副助詞／並立助詞／終助詞,*,*,*,*,か,カ,カ
 ？	記号,一般,*,*,*,*,？,？,？
 EOS
-俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ
-達	名詞,接尾,一般,*,*,*,達,タチ,タチ
+俺_n_1950_俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ	normalisable: normed, same form kept
+たち_n_196_達_達	名詞,接尾,一般,*,*,*,達,タチ,タチ	normalisable: normed, old orth: 達
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 胃の腑	名詞,一般,*,*,*,*,胃の腑,イノフ,イノフ
 が	助詞,格助詞,一般,*,*,*,が,ガ,ガ
@@ -211,8 +211,8 @@ EOS
 か	助詞,副助詞／並立助詞／終助詞,*,*,*,*,か,カ,カ
 ？	記号,一般,*,*,*,*,？,？,？
 EOS
-俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ
-達	名詞,接尾,一般,*,*,*,達,タチ,タチ
+俺_n_1950_俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ	normalisable: normed, same form kept
+たち_n_196_達_達	名詞,接尾,一般,*,*,*,達,タチ,タチ	normalisable: normed, old orth: 達
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 ピケ	名詞,一般,*,*,*,*,ピケ,ピケ,ピケ
 が	助詞,格助詞,一般,*,*,*,が,ガ,ガ
@@ -224,23 +224,23 @@ EOS
 EOS
 嘘	名詞,一般,*,*,*,*,嘘,ウソ,ウソ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-つけ	名詞,一般,*,*,*,*,つけ,ツケ,ツケ
+つけ	名詞,一般,*,*,*,*,つけ,ツケ,ツケ	normalisable: left unnormed due to ambiguity, same form kept
 ！	記号,一般,*,*,*,*,！,！,！
 EOS
 第	接頭詞,数接続,*,*,*,*,第,ダイ,ダイ
 二	名詞,数,*,*,*,*,二,ニ,ニ
-坑	名詞,一般,*,*,*,*,坑,アナ,アナ
+坑	名詞,一般,*,*,*,*,坑,アナ,アナ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 奴等	名詞,代名詞,一般,*,*,*,奴等,ヤツラ,ヤツラ	normalisable: left unnormed due to ambiguity, same form kept
 も	助詞,係助詞,*,*,*,*,も,モ,モ
 第	接頭詞,数接続,*,*,*,*,第,ダイ,ダイ
 三	名詞,数,*,*,*,*,三,サン,サン
-坑	名詞,一般,*,*,*,*,坑,アナ,アナ
+坑	名詞,一般,*,*,*,*,坑,アナ,アナ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 奴等	名詞,代名詞,一般,*,*,*,奴等,ヤツラ,ヤツラ	normalisable: left unnormed due to ambiguity, same form kept
 も	助詞,係助詞,*,*,*,*,も,モ,モ
 EOS
-しき	名詞,一般,*,*,*,*,しき,シキ,シキ
+しき	名詞,一般,*,*,*,*,しき,シキ,シキ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 暗闇	名詞,一般,*,*,*,*,暗闇,クラヤミ,クラヤミ
 で	助詞,格助詞,一般,*,*,*,で,デ,デ
@@ -248,7 +248,7 @@ EOS
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 様	名詞,非自立,助動詞語幹,*,*,*,様,ヨウ,ヨー
 に	助詞,副詞化,*,*,*,*,に,ニ,ニ
-眼	名詞,一般,*,*,*,*,眼,メ,メ
+眼	名詞,一般,*,*,*,*,眼,メ,メ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 光らせ	動詞,自立,*,*,一段,連用形,光らせる,ヒカラセ,ヒカラセ
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
@@ -257,7 +257,7 @@ EOS
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 投げ出し	動詞,自立,*,*,五段・サ行,連用形,投げ出す,ナゲダシ,ナゲダシ	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
-待っ_n_474	動詞,自立,*,*,五段・タ行,連用タ接続,待つ,マッ,マッ	normalisable: normed, same form kept
+待っ_n_1020_待っ	動詞,自立,*,*,五段・タ行,連用タ接続,待つ,マッ,マッ	normalisable: normed, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
 い	動詞,非自立,*,*,一段,連用形,いる,イ,イ
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
@@ -275,8 +275,8 @@ EOS
 ま	フィラー,*,*,*,*,*,ま,マ,マ
 も	助詞,係助詞,*,*,*,*,も,モ,モ
 EOS
-汚れ	動詞,自立,*,*,一段,連用形,汚れる,ヨゴレ,ヨゴレ
-切っ_n_439	動詞,非自立,*,*,五段・ラ行,連用タ接続,切る,キッ,キッ	normalisable: normed, same form kept
+汚れ	動詞,自立,*,*,一段,連用形,汚れる,ヨゴレ,ヨゴレ	normalisable: left unnormed due to ambiguity, same form kept
+切っ_n_947_切っ	動詞,非自立,*,*,五段・ラ行,連用タ接続,切る,キッ,キッ	normalisable: normed, same form kept
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 体	名詞,一般,*,*,*,*,体,カラダ,カラダ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
@@ -284,7 +284,7 @@ EOS
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
 し	動詞,自立,*,*,サ変・スル,連用形,する,シ,シ
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
-待っ_n_474	動詞,自立,*,*,五段・タ行,連用タ接続,待つ,マッ,マッ	normalisable: normed, same form kept
+待っ_n_1020_待っ	動詞,自立,*,*,五段・タ行,連用タ接続,待つ,マッ,マッ	normalisable: normed, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
 い	動詞,非自立,*,*,一段,連用形,いる,イ,イ
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
@@ -293,7 +293,7 @@ EOS
 EOS
 合図	名詞,サ変接続,*,*,*,*,合図,アイズ,アイズ
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-ハッパ	名詞,一般,*,*,*,*,ハッパ,ハッパ,ハッパ
+ハッパ	名詞,一般,*,*,*,*,ハッパ,ハッパ,ハッパ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,格助詞,一般,*,*,*,の,ノ,ノ
 鳴る	動詞,自立,*,*,五段・ラ行,基本形,鳴る,ナル,ナル
 の	名詞,非自立,一般,*,*,*,の,ノ,ノ
@@ -302,12 +302,12 @@ EOS
 ！	記号,一般,*,*,*,*,！,！,！
 EOS
 だけど	接続詞,*,*,*,*,*,だけど,ダケド,ダケド
-ハッパ	名詞,一般,*,*,*,*,ハッパ,ハッパ,ハッパ
+ハッパ	名詞,一般,*,*,*,*,ハッパ,ハッパ,ハッパ	normalisable: left unnormed due to ambiguity, same form kept
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
 鳴ら	動詞,自立,*,*,五段・ラ行,未然形,鳴る,ナラ,ナラ
 ず	助動詞,*,*,*,特殊・ヌ,連用ニ接続,ぬ,ズ,ズ
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
-ボー	名詞,一般,*,*,*,*,ボー,ボー,ボー
+ボー	名詞,一般,*,*,*,*,ボー,ボー,ボー	normalisable: left unnormed due to ambiguity, same form kept
 が	助詞,格助詞,一般,*,*,*,が,ガ,ガ
 鳴っ	動詞,自立,*,*,五段・ラ行,連用タ接続,鳴る,ナッ,ナッ
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
@@ -318,20 +318,20 @@ EOS
 、	記号,読点,*,*,*,*,、,、,、
 事務所	名詞,一般,*,*,*,*,事務所,ジムショ,ジムショ
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-方_n_152	名詞,非自立,一般,*,*,*,方,ホウ,ホー	normalisable: normed, same form kept
+方_n_323_方	名詞,非自立,一般,*,*,*,方,ホウ,ホー	normalisable: normed, same form kept
 で	助詞,格助詞,一般,*,*,*,で,デ,デ
-ボー	名詞,一般,*,*,*,*,ボー,ボー,ボー
+ボー	名詞,一般,*,*,*,*,ボー,ボー,ボー	normalisable: left unnormed due to ambiguity, same form kept
 が	助詞,格助詞,一般,*,*,*,が,ガ,ガ
 鳴っ	動詞,自立,*,*,五段・ラ行,連用タ接続,鳴る,ナッ,ナッ
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 ！	記号,一般,*,*,*,*,！,！,！
 EOS
 ダラ	名詞,一般,*,*,*,*,*
-幹	名詞,一般,*,*,*,*,幹,ミキ,ミキ
-め	名詞,接尾,一般,*,*,*,め,メ,メ
+幹	名詞,一般,*,*,*,*,幹,ミキ,ミキ	normalisable: left unnormed due to ambiguity, same form kept
+め_n_915_目	名詞,接尾,一般,*,*,*,め,メ,メ	normalisable: normed, same form kept
 、	記号,読点,*,*,*,*,、,、,、
-俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ
-達	名詞,接尾,一般,*,*,*,達,タチ,タチ
+俺_n_1950_俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ	normalisable: normed, same form kept
+たち_n_196_達_達	名詞,接尾,一般,*,*,*,達,タチ,タチ	normalisable: normed, old orth: 達
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 EOS
 坊主	名詞,一般,*,*,*,*,坊主,ボウズ,ボーズ
@@ -339,17 +339,17 @@ EOS
 売っ	動詞,自立,*,*,五段・ラ行,連用タ接続,売る,ウッ,ウッ
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 合図	名詞,サ変接続,*,*,*,*,合図,アイズ,アイズ
-脱退_n_2138	名詞,サ変接続,*,*,*,*,だったい,ダッタイ,ダッタイ	normalisable: normed, old orth: だったい
+脱退_n_4407_脱退_だったい	名詞,サ変接続,*,*,*,*,だったい,ダッタイ,ダッタイ	normalisable: normed, old orth: だったい
 ！	記号,一般,*,*,*,*,！,！,！
 EOS
 おお	感動詞,*,*,*,*,*,おお,オオ,オー
 よ	助詞,終助詞,*,*,*,*,よ,ヨ,ヨ
 、	記号,読点,*,*,*,*,、,、,、
 そして	接続詞,*,*,*,*,*,そして,ソシテ,ソシテ
-俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ
-等	名詞,接尾,一般,*,*,*,等,トウ,トー
+俺_n_1950_俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ	normalisable: normed, same form kept
+等	名詞,接尾,一般,*,*,*,等,トウ,トー	normalisable: left unnormed due to ambiguity, same form kept
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ
+負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ	normalisable: left unnormed due to ambiguity, same form kept
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 EOS
 若	形容詞,自立,*,*,形容詞・アウオ段,ガル接続,若い,ワカ,ワカ
@@ -358,10 +358,10 @@ EOS
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
 しょびい	動詞,自立,*,*,五段・カ行イ音便,連用タ接続,しょびく,ショビイ,ショビイ
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
-かれ	動詞,自立,*,*,一段,連用形,かれる,カレ,カレ
+かれ	動詞,自立,*,*,一段,連用形,かれる,カレ,カレ	normalisable: left unnormed due to ambiguity, same form kept
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 EOS
-負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ
+負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ	normalisable: left unnormed due to ambiguity, same form kept
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 ん	名詞,非自立,一般,*,*,*,ん,ン,ン
 だ	助動詞,*,*,*,特殊・ダ,基本形,だ,ダ,ダ
@@ -374,12 +374,12 @@ EOS
 ホエ	名詞,一般,*,*,*,*,*
 面	名詞,接尾,一般,*,*,*,面,メン,メン
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-かく	動詞,自立,*,*,五段・カ行イ音便,基本形,かく,カク,カク
+かく	動詞,自立,*,*,五段・カ行イ音便,基本形,かく,カク,カク	normalisable: left unnormed due to ambiguity, same form kept
 な	助詞,終助詞,*,*,*,*,な,ナ,ナ
 、	記号,読点,*,*,*,*,、,、,、
-グチ	名詞,一般,*,*,*,*,グチ,グチ,グチ
+愚痴_n_1539_愚痴_グチ	名詞,一般,*,*,*,*,グチ,グチ,グチ	normalisable: normed, old orth: グチ
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-言う	動詞,自立,*,*,五段・ワ行促音便,基本形,言う,イウ,イウ
+言う	動詞,自立,*,*,五段・ワ行促音便,基本形,言う,イウ,イウ	normalisable: left unnormed due to ambiguity, same form kept
 な	助詞,終助詞,*,*,*,*,な,ナ,ナ
 。	記号,句点,*,*,*,*,。,。,。
 EOS
@@ -389,17 +389,17 @@ EOS
 ここ	名詞,代名詞,一般,*,*,*,ここ,ココ,ココ
 から	助詞,格助詞,一般,*,*,*,から,カラ,カラ
 ２	名詞,数,*,*,*,*,２,ニ,ニ
-字	名詞,接尾,助数詞,*,*,*,字,ジ,ジ
+字	名詞,接尾,助数詞,*,*,*,字,ジ,ジ	normalisable: left unnormed due to ambiguity, same form kept
 下げ	名詞,一般,*,*,*,*,下げ,サゲ,サゲ
 ］	記号,括弧閉,*,*,*,*,］,］,］
 EOS
-日	名詞,一般,*,*,*,*,日,ヒ,ヒ
+日	名詞,一般,*,*,*,*,日,ヒ,ヒ	normalisable: left unnormed due to ambiguity, same form kept
 が	助詞,格助詞,一般,*,*,*,が,ガ,ガ
 暮れる	動詞,自立,*,*,一段,基本形,暮れる,クレル,クレル	normalisable: left unnormed due to ambiguity, same form kept
 よ	助詞,終助詞,*,*,*,*,よ,ヨ,ヨ
 EOS
-俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ
-達	名詞,接尾,一般,*,*,*,達,タチ,タチ
+俺_n_1950_俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ	normalisable: normed, same form kept
+たち_n_196_達_達	名詞,接尾,一般,*,*,*,達,タチ,タチ	normalisable: normed, old orth: 達
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 地下足袋	名詞,一般,*,*,*,*,地下足袋,ジカタビ,ジカタビ
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
@@ -409,7 +409,7 @@ EOS
 音	名詞,一般,*,*,*,*,音,オト,オト
 の	助詞,格助詞,一般,*,*,*,の,ノ,ノ
 無い	形容詞,自立,*,*,形容詞・アウオ段,基本形,無い,ナイ,ナイ
-坑	名詞,一般,*,*,*,*,坑,アナ,アナ
+坑	名詞,一般,*,*,*,*,坑,アナ,アナ	normalisable: left unnormed due to ambiguity, same form kept
 山	名詞,一般,*,*,*,*,山,ヤマ,ヤマ
 が	助詞,格助詞,一般,*,*,*,が,ガ,ガ
 暮れる	動詞,自立,*,*,一段,基本形,暮れる,クレル,クレル	normalisable: left unnormed due to ambiguity, same form kept
@@ -431,12 +431,12 @@ EOS
 だ	助動詞,*,*,*,特殊・ダ,基本形,だ,ダ,ダ
 よ	助詞,終助詞,*,*,*,*,よ,ヨ,ヨ
 、	記号,読点,*,*,*,*,、,、,、
-おっ	動詞,自立,*,*,五段・ラ行,連用タ接続,おる,オッ,オッ
+おっ	動詞,自立,*,*,五段・ラ行,連用タ接続,おる,オッ,オッ	normalisable: left unnormed due to ambiguity, same form kept
 か	助詞,副助詞／並立助詞／終助詞,*,*,*,*,か,カ,カ
 あ	フィラー,*,*,*,*,*,あ,ア,ア
 EOS
 あの	連体詞,*,*,*,*,*,あの,アノ,アノ
-ボー	名詞,一般,*,*,*,*,ボー,ボー,ボー
+ボー	名詞,一般,*,*,*,*,ボー,ボー,ボー	normalisable: left unnormed due to ambiguity, same form kept
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
 どう	副詞,助詞類接続,*,*,*,*,どう,ドウ,ドー
 し	動詞,自立,*,*,サ変・スル,連用形,する,シ,シ
@@ -448,31 +448,31 @@ EOS
 EOS
 此	名詞,一般,*,*,*,*,*
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-子	名詞,一般,*,*,*,*,子,コ,コ
+子	名詞,一般,*,*,*,*,子,コ,コ	normalisable: left unnormed due to ambiguity, same form kept
 が	助詞,格助詞,一般,*,*,*,が,ガ,ガ
 あの	連体詞,*,*,*,*,*,あの,アノ,アノ
-時_n_28	名詞,非自立,副詞可能,*,*,*,時,トキ,トキ	normalisable: normed, same form kept
+時_n_70_時	名詞,非自立,副詞可能,*,*,*,時,トキ,トキ	normalisable: normed, same form kept
 そう	副詞,助詞類接続,*,*,*,*,そう,ソウ,ソー
-言い	動詞,自立,*,*,五段・ワ行促音便,連用形,言う,イイ,イイ
+言い	動詞,自立,*,*,五段・ワ行促音便,連用形,言う,イイ,イイ	normalisable: left unnormed due to ambiguity, same form kept
 まし	助動詞,*,*,*,特殊・マス,連用形,ます,マシ,マシ
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 よ	助詞,終助詞,*,*,*,*,よ,ヨ,ヨ
 EOS
-私しゃ	名詞,代名詞,縮約,*,*,*,私しゃ,ワタシャ,ワタシャ
+私しゃ	名詞,代名詞,縮約,*,*,*,私しゃ,ワタシャ,ワタシャ	normalisable: left unnormed due to ambiguity, same form kept
 ドッキリ	名詞,一般,*,*,*,*,*
 し	動詞,自立,*,*,サ変・スル,連用形,する,シ,シ
 ちまっ	動詞,非自立,*,*,五段・ワ行促音便,連用タ接続,ちまう,チマッ,チマッ
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
 EOS
-返事	名詞,サ変接続,*,*,*,*,返事,ヘンジ,ヘンジ
+返事	名詞,サ変接続,*,*,*,*,返事,ヘンジ,ヘンジ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 する	動詞,自立,*,*,サ変・スル,基本形,する,スル,スル
-事	名詞,非自立,一般,*,*,*,事,コト,コト
+こと_n_32_事_事	名詞,非自立,一般,*,*,*,事,コト,コト	normalisable: normed, old orth: 事
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 忘れ	動詞,自立,*,*,一段,連用形,忘れる,ワスレ,ワスレ	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
 EOS
-石	名詞,一般,*,*,*,*,石,イシ,イシ
+石	名詞,一般,*,*,*,*,石,イシ,イシ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 上	名詞,非自立,副詞可能,*,*,*,上,ウエ,ウエ
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
@@ -503,7 +503,7 @@ EOS
 も	助詞,係助詞,*,*,*,*,も,モ,モ
 落盤	名詞,サ変接続,*,*,*,*,落盤,ラクバン,ラクバン
 で	助詞,格助詞,一般,*,*,*,で,デ,デ
-やら	動詞,自立,*,*,五段・ラ行,未然形,やる,ヤラ,ヤラ
+やら	動詞,自立,*,*,五段・ラ行,未然形,やる,ヤラ,ヤラ	normalisable: left unnormed due to ambiguity, same form kept
 れ	動詞,接尾,*,*,一段,連用形,れる,レ,レ
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 様	名詞,非自立,助動詞語幹,*,*,*,様,ヨウ,ヨー
@@ -524,26 +524,26 @@ EOS
 ほんとに	副詞,一般,*,*,*,*,ほんとに,ホントニ,ホントニ
 、	記号,読点,*,*,*,*,、,、,、
 その	連体詞,*,*,*,*,*,その,ソノ,ソノ
-時_n_28	名詞,非自立,副詞可能,*,*,*,時,トキ,トキ	normalisable: normed, same form kept
+時_n_70_時	名詞,非自立,副詞可能,*,*,*,時,トキ,トキ	normalisable: normed, same form kept
 EOS
-石	名詞,一般,*,*,*,*,石,イシ,イシ
+石	名詞,一般,*,*,*,*,石,イシ,イシ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-下	名詞,一般,*,*,*,*,下,シタ,シタ
+下	名詞,一般,*,*,*,*,下,シタ,シタ	normalisable: left unnormed due to ambiguity, same form kept
 から	助詞,格助詞,一般,*,*,*,から,カラ,カラ
 死ん	動詞,自立,*,*,五段・ナ行,連用タ接続,死ぬ,シン,シン
 だ	助動詞,*,*,*,特殊・タ,基本形,だ,ダ,ダ
 亭主	名詞,一般,*,*,*,*,亭主,テイシュ,テイシュ
 が	助詞,格助詞,一般,*,*,*,が,ガ,ガ
-泣き	動詞,自立,*,*,五段・カ行イ音便,連用形,泣く,ナキ,ナキ
+泣き	動詞,自立,*,*,五段・カ行イ音便,連用形,泣く,ナキ,ナキ	normalisable: left unnormed due to ambiguity, same form kept
 まし	助動詞,*,*,*,特殊・マス,連用形,ます,マシ,マシ
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 よ	助詞,終助詞,*,*,*,*,よ,ヨ,ヨ
 EOS
-私しゃ	名詞,代名詞,縮約,*,*,*,私しゃ,ワタシャ,ワタシャ
+私しゃ	名詞,代名詞,縮約,*,*,*,私しゃ,ワタシャ,ワタシャ	normalisable: left unnormed due to ambiguity, same form kept
 その	連体詞,*,*,*,*,*,その,ソノ,ソノ
 声	名詞,一般,*,*,*,*,声,コエ,コエ
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-聞き	動詞,自立,*,*,五段・カ行イ音便,連用形,聞く,キキ,キキ
+聞き	動詞,自立,*,*,五段・カ行イ音便,連用形,聞く,キキ,キキ	normalisable: left unnormed due to ambiguity, same form kept
 まし	助動詞,*,*,*,特殊・マス,連用形,ます,マシ,マシ
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 よ	助詞,終助詞,*,*,*,*,よ,ヨ,ヨ
@@ -551,17 +551,17 @@ EOS
 四	名詞,数,*,*,*,*,四,ヨン,ヨン
 十	名詞,数,*,*,*,*,十,ジュウ,ジュー
 日	名詞,接尾,助数詞,*,*,*,日,ニチ,ニチ
-もの	名詞,非自立,一般,*,*,*,もの,モノ,モノ
-食う	動詞,自立,*,*,五段・ワ行促音便,基本形,食う,クウ,クウ
+もの	名詞,非自立,一般,*,*,*,もの,モノ,モノ	normalisable: left unnormed due to ambiguity, same form kept
+食う	動詞,自立,*,*,五段・ワ行促音便,基本形,食う,クウ,クウ	normalisable: left unnormed due to ambiguity, same form kept
 や	助詞,接続助詞,*,*,*,*,や,ヤ,ヤ
-食わ	動詞,自立,*,*,五段・ワ行促音便,未然形,食う,クワ,クワ
+食わ	動詞,自立,*,*,五段・ワ行促音便,未然形,食う,クワ,クワ	normalisable: left unnormed due to ambiguity, same form kept
 ず	助動詞,*,*,*,特殊・ヌ,連用ニ接続,ぬ,ズ,ズ
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 ストライキ	名詞,サ変接続,*,*,*,*,ストライキ,ストライキ,ストライキ
 が	助詞,格助詞,一般,*,*,*,が,ガ,ガ
 EOS
 どうして	副詞,一般,*,*,*,*,どうして,ドウシテ,ドーシテ
-負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ
+負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ	normalisable: left unnormed due to ambiguity, same form kept
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 か	助詞,副助詞／並立助詞／終助詞,*,*,*,*,か,カ,カ
 教え	動詞,自立,*,*,一段,連用形,教える,オシエ,オシエ	normalisable: left unnormed due to ambiguity, same form kept
@@ -576,7 +576,7 @@ EOS
 ざ	名詞,一般,*,*,*,*,*
 ヨ	名詞,固有名詞,組織,*,*,*,ヨ,ヨ,ヨ
 ロケ	名詞,一般,*,*,*,*,ロケ,ロケ,ロケ
-かかっ	動詞,自立,*,*,五段・ラ行,連用タ接続,かかる,カカッ,カカッ
+かかっ	動詞,自立,*,*,五段・ラ行,連用タ接続,かかる,カカッ,カカッ	normalisable: left unnormed due to ambiguity, same form kept
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 女	名詞,一般,*,*,*,*,女,オンナ,オンナ
 です	助動詞,*,*,*,特殊・デス,基本形,です,デス,デス
@@ -584,7 +584,7 @@ EOS
 死の	動詞,自立,*,*,五段・ナ行,未然ウ接続,死ぬ,シノ,シノ
 う	助動詞,*,*,*,不変化型,基本形,う,ウ,ウ
 が	助詞,接続助詞,*,*,*,*,が,ガ,ガ
-生きよ	動詞,自立,*,*,一段,未然ウ接続,生きる,イキヨ,イキヨ
+生きよ	動詞,自立,*,*,一段,未然ウ接続,生きる,イキヨ,イキヨ	normalisable: left unnormed due to ambiguity, same form kept
 う	助動詞,*,*,*,不変化型,基本形,う,ウ,ウ
 が	助詞,接続助詞,*,*,*,*,が,ガ,ガ
 何	名詞,代名詞,一般,*,*,*,何,ナニ,ナニ
@@ -594,11 +594,11 @@ EOS
 EOS
 此	名詞,一般,*,*,*,*,*
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-子	名詞,一般,*,*,*,*,子,コ,コ
+子	名詞,一般,*,*,*,*,子,コ,コ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 腕	名詞,一般,*,*,*,*,腕,ウデ,ウデ
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-見	動詞,自立,*,*,一段,連用形,見る,ミ,ミ
+見	動詞,自立,*,*,一段,連用形,見る,ミ,ミ	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
 下さい	動詞,非自立,*,*,五段・ラ行特殊,命令ｉ,下さる,クダサイ,クダサイ	normalisable: left unnormed due to ambiguity, same form kept
 よ	助詞,終助詞,*,*,*,*,よ,ヨ,ヨ
@@ -607,7 +607,7 @@ EOS
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 首	名詞,一般,*,*,*,*,首,クビ,クビ
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
-巻き	動詞,自立,*,*,五段・カ行イ音便,連用形,巻く,マキ,マキ
+巻き	動詞,自立,*,*,五段・カ行イ音便,連用形,巻く,マキ,マキ	normalisable: left unnormed due to ambiguity, same form kept
 つけ	動詞,非自立,*,*,一段,未然形,つける,ツケ,ツケ	normalisable: left unnormed due to ambiguity, same form kept
 てる	動詞,非自立,*,*,一段,基本形,てる,テル,テル
 EOS
@@ -618,7 +618,7 @@ EOS
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 腕	名詞,一般,*,*,*,*,腕,ウデ,ウデ
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-見	動詞,自立,*,*,一段,連用形,見る,ミ,ミ
+見	動詞,自立,*,*,一段,連用形,見る,ミ,ミ	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
 下さい	動詞,非自立,*,*,五段・ラ行特殊,命令ｉ,下さる,クダサイ,クダサイ	normalisable: left unnormed due to ambiguity, same form kept
 よ	助詞,終助詞,*,*,*,*,よ,ヨ,ヨ
@@ -631,42 +631,42 @@ EOS
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 腕	名詞,一般,*,*,*,*,腕,ウデ,ウデ
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-中_n_17	名詞,非自立,副詞可能,*,*,*,中,ナカ,ナカ	normalisable: normed, same form kept
+中_n_46_中	名詞,非自立,副詞可能,*,*,*,中,ナカ,ナカ	normalisable: normed, same form kept
 から	助詞,格助詞,一般,*,*,*,から,カラ,カラ
 EOS
 私	名詞,代名詞,一般,*,*,*,私,ワタシ,ワタシ
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 首	名詞,一般,*,*,*,*,首,クビ,クビ
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-しめつけ	動詞,自立,*,*,一段,連用形,しめつける,シメツケ,シメツケ
+しめつけ	動詞,自立,*,*,一段,連用形,しめつける,シメツケ,シメツケ	normalisable: left unnormed due to ambiguity, same form kept
 ます	助動詞,*,*,*,特殊・マス,基本形,ます,マス,マス
 EOS
 ち	動詞,自立,*,*,五段・ラ行,体言接続特殊２,ちる,チ,チ
 ち	動詞,自立,*,*,五段・ラ行,体言接続特殊２,ちる,チ,チ
 畜生	名詞,一般,*,*,*,*,畜生,チクショウ,チクショー
 、	記号,読点,*,*,*,*,、,、,、
-なぜ_n_25_何故	副詞,助詞類接続,*,*,*,*,なぜ,ナゼ,ナゼ	normalisable: normed, same form kept
-負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ
+なぜ_n_63_何故	副詞,助詞類接続,*,*,*,*,なぜ,ナゼ,ナゼ	normalisable: normed, same form kept
+負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ	normalisable: left unnormed due to ambiguity, same form kept
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 EOS
-なぜ_n_25_何故	副詞,助詞類接続,*,*,*,*,なぜ,ナゼ,ナゼ	normalisable: normed, same form kept
-俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ
+なぜ_n_63_何故	副詞,助詞類接続,*,*,*,*,なぜ,ナゼ,ナゼ	normalisable: normed, same form kept
+俺_n_1950_俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ	normalisable: normed, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 仇	名詞,一般,*,*,*,*,仇,アダ,アダ
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-打っ	動詞,自立,*,*,五段・タ行,連用タ接続,打つ,ウッ,ウッ
+打っ	動詞,自立,*,*,五段・タ行,連用タ接続,打つ,ウッ,ウッ	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
-呉れ	動詞,自立,*,*,一段・クレル,未然形,呉れる,クレ,クレ
+呉れ	動詞,自立,*,*,一段・クレル,未然形,呉れる,クレ,クレ	normalisable: left unnormed due to ambiguity, same form kept
 なかっ	助動詞,*,*,*,特殊・ナイ,連用タ接続,ない,ナカッ,ナカッ
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 EOS
 そう	副詞,助詞類接続,*,*,*,*,そう,ソウ,ソー
-呻い_n_3384	動詞,自立,*,*,五段・カ行イ音便,連用タ接続,呻く,ウメイ,ウメイ	normalisable: normed, same form kept
+呻い_n_6885_呻い	動詞,自立,*,*,五段・カ行イ音便,連用タ接続,呻く,ウメイ,ウメイ	normalisable: normed, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
-しめつけ	動詞,自立,*,*,一段,連用形,しめつける,シメツケ,シメツケ
+しめつけ	動詞,自立,*,*,一段,連用形,しめつける,シメツケ,シメツケ	normalisable: left unnormed due to ambiguity, same form kept
 ます	助動詞,*,*,*,特殊・マス,基本形,ます,マス,マス
 EOS
-私しゃ	名詞,代名詞,縮約,*,*,*,私しゃ,ワタシャ,ワタシャ
+私しゃ	名詞,代名詞,縮約,*,*,*,私しゃ,ワタシャ,ワタシャ	normalisable: left unnormed due to ambiguity, same form kept
 苦しい	形容詞,自立,*,*,形容詞・イ段,基本形,苦しい,クルシイ,クルシイ
 、	記号,読点,*,*,*,*,、,、,、
 ええ	感動詞,*,*,*,*,*,ええ,エエ,エー
@@ -674,12 +674,12 @@ EOS
 体	名詞,一般,*,*,*,*,体,カラダ,カラダ	normalisable: left unnormed due to ambiguity, same form kept
 中	名詞,接尾,副詞可能,*,*,*,中,チュウ,チュー
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-血	名詞,一般,*,*,*,*,血,チ,チ
+血	名詞,一般,*,*,*,*,血,チ,チ	normalisable: left unnormed due to ambiguity, same form kept
 が	助詞,格助詞,一般,*,*,*,が,ガ,ガ
 一	名詞,数,*,*,*,*,一,イチ,イチ
 度	名詞,接尾,助数詞,*,*,*,度,ド,ド
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
-青く	形容詞,自立,*,*,形容詞・アウオ段,連用テ接続,青い,アオク,アオク
+青く	形容詞,自立,*,*,形容詞・アウオ段,連用テ接続,青い,アオク,アオク	normalisable: left unnormed due to ambiguity, same form kept
 なれ	動詞,自立,*,*,五段・ラ行,仮定形,なる,ナレ,ナレ
 ば	助詞,接続助詞,*,*,*,*,ば,バ,バ
 いい	形容詞,非自立,*,*,形容詞・イイ,基本形,いい,イイ,イイ
@@ -692,29 +692,29 @@ EOS
 ここ	名詞,代名詞,一般,*,*,*,ここ,ココ,ココ
 から	助詞,格助詞,一般,*,*,*,から,カラ,カラ
 ２	名詞,数,*,*,*,*,２,ニ,ニ
-字	名詞,接尾,助数詞,*,*,*,字,ジ,ジ
+字	名詞,接尾,助数詞,*,*,*,字,ジ,ジ	normalisable: left unnormed due to ambiguity, same form kept
 下げ	名詞,一般,*,*,*,*,下げ,サゲ,サゲ
 ］	記号,括弧閉,*,*,*,*,］,］,］
 EOS
-青い	形容詞,自立,*,*,形容詞・アウオ段,基本形,青い,アオイ,アオイ
+青い	形容詞,自立,*,*,形容詞・アウオ段,基本形,青い,アオイ,アオイ	normalisable: left unnormed due to ambiguity, same form kept
 咒	名詞,一般,*,*,*,*,*
 いに	動詞,自立,*,*,五段・ナ行,連用形,いぬ,イニ,イニ
 踏みしめる	動詞,自立,*,*,一段,基本形,踏みしめる,フミシメル,フミシメル
 EOS
-足	名詞,一般,*,*,*,*,足,アシ,アシ
+足	名詞,一般,*,*,*,*,足,アシ,アシ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-下	名詞,一般,*,*,*,*,下,シタ,シタ
+下	名詞,一般,*,*,*,*,下,シタ,シタ	normalisable: left unnormed due to ambiguity, same form kept
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
-舞い_n_725	動詞,自立,*,*,五段・ワ行促音便,連用形,舞う,マイ,マイ	normalisable: normed, same form kept
-上る	動詞,自立,*,*,五段・ラ行,基本形,上る,ノボル,ノボル
+舞い_n_1551_舞い	動詞,自立,*,*,五段・ワ行促音便,連用形,舞う,マイ,マイ	normalisable: normed, same form kept
+上る	動詞,自立,*,*,五段・ラ行,基本形,上る,ノボル,ノボル	normalisable: left unnormed due to ambiguity, same form kept
 砂	名詞,一般,*,*,*,*,砂,スナ,スナ
-ほこり	名詞,一般,*,*,*,*,ほこり,ホコリ,ホコリ
+ほこり	名詞,一般,*,*,*,*,ほこり,ホコリ,ホコリ	normalisable: left unnormed due to ambiguity, same form kept
 も	助詞,係助詞,*,*,*,*,も,モ,モ
 EOS
-俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ
-達	名詞,接尾,一般,*,*,*,達,タチ,タチ
+俺_n_1950_俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ	normalisable: normed, same form kept
+たち_n_196_達_達	名詞,接尾,一般,*,*,*,達,タチ,タチ	normalisable: normed, old orth: 達
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-眼	名詞,一般,*,*,*,*,眼,メ,メ
+眼	名詞,一般,*,*,*,*,眼,メ,メ	normalisable: left unnormed due to ambiguity, same form kept
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
 見えよ	動詞,自立,*,*,一段,未然ウ接続,見える,ミエヨ,ミエヨ
 う	助動詞,*,*,*,不変化型,基本形,う,ウ,ウ
@@ -731,18 +731,18 @@ EOS
 EOS
 EOS
 ただ	接続詞,*,*,*,*,*,ただ,タダ,タダ
-帰れ	動詞,自立,*,*,一段,連用形,帰れる,カエレ,カエレ
+帰れ	動詞,自立,*,*,一段,連用形,帰れる,カエレ,カエレ	normalisable: left unnormed due to ambiguity, same form kept
 、	記号,読点,*,*,*,*,、,、,、
-兄弟	名詞,一般,*,*,*,*,兄弟,キョウダイ,キョーダイ
+兄弟	名詞,一般,*,*,*,*,兄弟,キョウダイ,キョーダイ	normalisable: left unnormed due to ambiguity, same form kept
 ！	記号,一般,*,*,*,*,！,！,！
 EOS
 たぎり	動詞,自立,*,*,五段・ラ行,連用形,たぎる,タギリ,タギリ
-立つ	動詞,自立,*,*,五段・タ行,基本形,立つ,タツ,タツ
-血	名詞,一般,*,*,*,*,血,チ,チ
+立つ	動詞,自立,*,*,五段・タ行,基本形,立つ,タツ,タツ	normalisable: left unnormed due to ambiguity, same form kept
+血	名詞,一般,*,*,*,*,血,チ,チ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 EOS
 もう一度	副詞,一般,*,*,*,*,もう一度,モウイチド,モーイチド
-氷	名詞,一般,*,*,*,*,氷,コオリ,コーリ
+氷	名詞,一般,*,*,*,*,氷,コオリ,コーリ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 様	名詞,非自立,助動詞語幹,*,*,*,様,ヨウ,ヨー
 に	助詞,副詞化,*,*,*,*,に,ニ,ニ
@@ -751,9 +751,9 @@ EOS
 様	名詞,非自立,助動詞語幹,*,*,*,様,ヨウ,ヨー
 に	助詞,副詞化,*,*,*,*,に,ニ,ニ
 EOS
-核	名詞,一般,*,*,*,*,核,カク,カク
+核	名詞,一般,*,*,*,*,核,カク,カク	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-核	名詞,一般,*,*,*,*,核,カク,カク
+核	名詞,一般,*,*,*,*,核,カク,カク	normalisable: left unnormed due to ambiguity, same form kept
 まで	助詞,副助詞,*,*,*,*,まで,マデ,マデ
 冷たく	形容詞,自立,*,*,形容詞・アウオ段,連用テ接続,冷たい,ツメタク,ツメタク
 さ	動詞,自立,*,*,サ変・スル,未然レル接続,する,サ,サ
@@ -767,17 +767,17 @@ EOS
 おい	感動詞,*,*,*,*,*,おい,オイ,オイ
 ！	記号,一般,*,*,*,*,！,！,！
 EOS
-俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ
-達	名詞,接尾,一般,*,*,*,達,タチ,タチ
+俺_n_1950_俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ	normalisable: normed, same form kept
+たち_n_196_達_達	名詞,接尾,一般,*,*,*,達,タチ,タチ	normalisable: normed, old orth: 達
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-背	名詞,一般,*,*,*,*,背,セ,セ
+背	名詞,一般,*,*,*,*,背,セ,セ	normalisable: left unnormed due to ambiguity, same form kept
 が	助詞,格助詞,一般,*,*,*,が,ガ,ガ
 こんなに	副詞,助詞類接続,*,*,*,*,こんなに,コンナニ,コンナニ
 よ	助詞,終助詞,*,*,*,*,よ,ヨ,ヨ
 EOS
 曲っ	動詞,自立,*,*,五段・ラ行,連用タ接続,曲る,マガッ,マガッ	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
-胸	名詞,一般,*,*,*,*,胸,ムネ,ムネ
+胸	名詞,一般,*,*,*,*,胸,ムネ,ムネ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 押しつけ	動詞,自立,*,*,一段,連用形,押しつける,オシツケ,オシツケ	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
@@ -790,55 +790,55 @@ EOS
 しまう	動詞,非自立,*,*,五段・ワ行促音便,基本形,しまう,シマウ,シマウ
 の	名詞,非自立,一般,*,*,*,の,ノ,ノ
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-はや_n_1531_早	副詞,一般,*,*,*,*,早,ハヤ,ハヤ	normalisable: normed, old orth: 早
-かん	動詞,自立,*,*,五段・マ行,連用タ接続,かむ,カン,カン
+はや_n_3235_早_早	副詞,一般,*,*,*,*,早,ハヤ,ハヤ	normalisable: normed, old orth: 早
+かん	動詞,自立,*,*,五段・マ行,連用タ接続,かむ,カン,カン	normalisable: left unnormed due to ambiguity, same form kept
 べ	助詞,終助詞,*,*,*,*,べ,ベ,ベ
 ！	記号,一般,*,*,*,*,！,！,！
 EOS
-今日_n_146	名詞,副詞可能,*,*,*,*,今日,キョウ,キョー	normalisable: normed, same form kept
-俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ
-達	名詞,接尾,一般,*,*,*,達,タチ,タチ
+今日_n_305_今日	名詞,副詞可能,*,*,*,*,今日,キョウ,キョー	normalisable: normed, same form kept
+俺_n_1950_俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ	normalisable: normed, same form kept
+たち_n_196_達_達	名詞,接尾,一般,*,*,*,達,タチ,タチ	normalisable: normed, old orth: 達
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ
+負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ	normalisable: left unnormed due to ambiguity, same form kept
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 か	助詞,副助詞／並立助詞／終助詞,*,*,*,*,か,カ,カ
 ？	記号,一般,*,*,*,*,？,？,？
 EOS
 おお	感動詞,*,*,*,*,*,おお,オオ,オー
-負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ
+負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ	normalisable: left unnormed due to ambiguity, same form kept
 た	助動詞,*,*,*,特殊・タ,基本形,た,タ,タ
 ！	記号,一般,*,*,*,*,！,！,！
 EOS
-明日_n_895	名詞,副詞可能,*,*,*,*,明日,アシタ,アシタ	normalisable: normed, same form kept
+明日_n_1895_明日	名詞,副詞可能,*,*,*,*,明日,アシタ,アシタ	normalisable: normed, same form kept
 に	助詞,格助詞,一般,*,*,*,に,ニ,ニ
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-明日_n_895	名詞,副詞可能,*,*,*,*,明日,アシタ,アシタ	normalisable: normed, same form kept
+明日_n_1895_明日	名詞,副詞可能,*,*,*,*,明日,アシタ,アシタ	normalisable: normed, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 日	名詞,非自立,副詞可能,*,*,*,日,ヒ,ヒ
 が	助詞,格助詞,一般,*,*,*,が,ガ,ガ
-照っ	動詞,自立,*,*,五段・ラ行,連用タ接続,照る,テッ,テッ
+照っ	動詞,自立,*,*,五段・ラ行,連用タ接続,照る,テッ,テッ	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
 EOS
-明日_n_895	名詞,副詞可能,*,*,*,*,明日,アシタ,アシタ	normalisable: normed, same form kept
+明日_n_1895_明日	名詞,副詞可能,*,*,*,*,明日,アシタ,アシタ	normalisable: normed, same form kept
 も	助詞,係助詞,*,*,*,*,も,モ,モ
-俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ
-達	名詞,接尾,一般,*,*,*,達,タチ,タチ
+俺_n_1950_俺	名詞,代名詞,一般,*,*,*,俺,オレ,オレ	normalisable: normed, same form kept
+たち_n_196_達_達	名詞,接尾,一般,*,*,*,達,タチ,タチ	normalisable: normed, old orth: 達
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-負ける	動詞,自立,*,*,一段,基本形,負ける,マケル,マケル
+負ける	動詞,自立,*,*,一段,基本形,負ける,マケル,マケル	normalisable: left unnormed due to ambiguity, same form kept
 か	助詞,副助詞／並立助詞／終助詞,*,*,*,*,か,カ,カ
 ？	記号,一般,*,*,*,*,？,？,？
 EOS
 おお	感動詞,*,*,*,*,*,おお,オオ,オー
-負ける	動詞,自立,*,*,一段,基本形,負ける,マケル,マケル
+負ける	動詞,自立,*,*,一段,基本形,負ける,マケル,マケル	normalisable: left unnormed due to ambiguity, same form kept
 かも	助詞,副助詞,*,*,*,*,かも,カモ,カモ
-知れ	動詞,自立,*,*,一段,未然形,知れる,シレ,シレ
+知れ	動詞,自立,*,*,一段,未然形,知れる,シレ,シレ	normalisable: left unnormed due to ambiguity, same form kept
 ねえ	助動詞,*,*,*,特殊・ナイ,音便基本形,ない,ネエ,ネー
 。	記号,句点,*,*,*,*,。,。,。
 EOS
 明後日	名詞,副詞可能,*,*,*,*,明後日,ミョウゴニチ,ミョーゴニチ
 も	助詞,係助詞,*,*,*,*,も,モ,モ
 その	連体詞,*,*,*,*,*,その,ソノ,ソノ
-次	名詞,一般,*,*,*,*,次,ツギ,ツギ
+次	名詞,一般,*,*,*,*,次,ツギ,ツギ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
 日	名詞,非自立,副詞可能,*,*,*,日,ヒ,ヒ
 も	助詞,係助詞,*,*,*,*,も,モ,モ
@@ -846,41 +846,41 @@ EOS
 も	助詞,係助詞,*,*,*,*,も,モ,モ
 EOS
 おお	感動詞,*,*,*,*,*,おお,オオ,オー
-負ける	動詞,自立,*,*,一段,基本形,負ける,マケル,マケル
+負ける	動詞,自立,*,*,一段,基本形,負ける,マケル,マケル	normalisable: left unnormed due to ambiguity, same form kept
 かも	助詞,副助詞,*,*,*,*,かも,カモ,カモ
-知れ	動詞,自立,*,*,一段,未然形,知れる,シレ,シレ
+知れ	動詞,自立,*,*,一段,未然形,知れる,シレ,シレ	normalisable: left unnormed due to ambiguity, same form kept
 ぬ	助動詞,*,*,*,特殊・ヌ,基本形,ぬ,ヌ,ヌ
 。	記号,句点,*,*,*,*,。,。,。
 EOS
-歯	名詞,一般,*,*,*,*,歯,ハ,ハ
+歯	名詞,一般,*,*,*,*,歯,ハ,ハ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
-喰い	動詞,自立,*,*,五段・ワ行促音便,連用形,喰う,クイ,クイ
+喰い	動詞,自立,*,*,五段・ワ行促音便,連用形,喰う,クイ,クイ	normalisable: left unnormed due to ambiguity, same form kept
 しばれ	動詞,自立,*,*,一段,連用形,しばれる,シバレ,シバレ
 、	記号,読点,*,*,*,*,、,、,、
-歯	名詞,一般,*,*,*,*,歯,ハ,ハ
+歯	名詞,一般,*,*,*,*,歯,ハ,ハ	normalisable: left unnormed due to ambiguity, same form kept
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 噛みくだけ	動詞,自立,*,*,五段・カ行イ音便,命令ｅ,噛みくだく,カミクダケ,カミクダケ
 ！	記号,一般,*,*,*,*,！,！,！
 EOS
 くそ	接頭詞,形容詞接続,*,*,*,*,くそ,クソ,クソ	normalisable: left unnormed due to ambiguity, same form kept
-喰え	動詞,自立,*,*,五段・ワ行促音便,命令ｅ,喰う,クエ,クエ
+喰え	動詞,自立,*,*,五段・ワ行促音便,命令ｅ,喰う,クエ,クエ	normalisable: left unnormed due to ambiguity, same form kept
 ！	記号,一般,*,*,*,*,！,！,！
 EOS
 し	動詞,自立,*,*,サ変・スル,未然形,する,シ,シ
 まい	助動詞,*,*,*,不変化型,基本形,まい,マイ,マイ
 まで	助詞,副助詞,*,*,*,*,まで,マデ,マデ
-負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ
+負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
-居よ	動詞,自立,*,*,一段,未然ウ接続,居る,イヨ,イヨ
+居よ	動詞,自立,*,*,一段,未然ウ接続,居る,イヨ,イヨ	normalisable: left unnormed due to ambiguity, same form kept
 う	助動詞,*,*,*,不変化型,基本形,う,ウ,ウ
 か	助詞,副助詞／並立助詞／終助詞,*,*,*,*,か,カ,カ
 ！	記号,一般,*,*,*,*,！,！,！
 EOS
 しまいに	副詞,助詞類接続,*,*,*,*,しまいに,シマイニ,シマイニ
 は	助詞,係助詞,*,*,*,*,は,ハ,ワ
-負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ
+負け	動詞,自立,*,*,一段,連用形,負ける,マケ,マケ	normalisable: left unnormed due to ambiguity, same form kept
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
-居よ	動詞,自立,*,*,一段,未然ウ接続,居る,イヨ,イヨ
+居よ	動詞,自立,*,*,一段,未然ウ接続,居る,イヨ,イヨ	normalisable: left unnormed due to ambiguity, same form kept
 う	助動詞,*,*,*,不変化型,基本形,う,ウ,ウ
 か	助詞,副助詞／並立助詞／終助詞,*,*,*,*,か,カ,カ
 ！	記号,一般,*,*,*,*,！,！,！
@@ -894,25 +894,25 @@ EOS
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 踏みしめろ	動詞,自立,*,*,一段,命令ｒｏ,踏みしめる,フミシメロ,フミシメロ
 、	記号,読点,*,*,*,*,、,、,、
-兄弟	名詞,一般,*,*,*,*,兄弟,キョウダイ,キョーダイ
+兄弟	名詞,一般,*,*,*,*,兄弟,キョウダイ,キョーダイ	normalisable: left unnormed due to ambiguity, same form kept
 ！	記号,一般,*,*,*,*,！,！,！
 EOS
-シキ	名詞,一般,*,*,*,*,シキ,シキ,シキ
+シキ	名詞,一般,*,*,*,*,シキ,シキ,シキ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-中_n_17	名詞,非自立,副詞可能,*,*,*,中,ナカ,ナカ	normalisable: normed, same form kept
+中_n_46_中	名詞,非自立,副詞可能,*,*,*,中,ナカ,ナカ	normalisable: normed, same form kept
 が	助詞,格助詞,一般,*,*,*,が,ガ,ガ
 暗く	形容詞,自立,*,*,形容詞・アウオ段,連用テ接続,暗い,クラク,クラク
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
 EOS
-血	名詞,一般,*,*,*,*,血,チ,チ
+血	名詞,一般,*,*,*,*,血,チ,チ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,連体化,*,*,*,*,の,ノ,ノ
-臭い	名詞,一般,*,*,*,*,臭い,ニオイ,ニオイ
+臭い	名詞,一般,*,*,*,*,臭い,ニオイ,ニオイ	normalisable: left unnormed due to ambiguity, same form kept
 の	助詞,格助詞,一般,*,*,*,の,ノ,ノ
 する	動詞,自立,*,*,サ変・スル,基本形,する,スル,スル
 間	名詞,一般,*,*,*,*,間,マ,マ
 、	記号,読点,*,*,*,*,、,、,、
 EOS
-よし	形容詞,自立,*,*,形容詞・アウオ段,文語基本形,よい,ヨシ,ヨシ
+よし	形容詞,自立,*,*,形容詞・アウオ段,文語基本形,よい,ヨシ,ヨシ	normalisable: left unnormed due to ambiguity, same form kept
 か	助詞,副助詞／並立助詞／終助詞,*,*,*,*,か,カ,カ
 EOS
 一	名詞,数,*,*,*,*,一,イチ,イチ
@@ -924,21 +924,21 @@ EOS
 を	助詞,格助詞,一般,*,*,*,を,ヲ,ヲ
 踏みしめろ	動詞,自立,*,*,一段,命令ｒｏ,踏みしめる,フミシメロ,フミシメロ
 、	記号,読点,*,*,*,*,、,、,、
-兄弟	名詞,一般,*,*,*,*,兄弟,キョウダイ,キョーダイ
+兄弟	名詞,一般,*,*,*,*,兄弟,キョウダイ,キョーダイ	normalisable: left unnormed due to ambiguity, same form kept
 ！	記号,一般,*,*,*,*,！,！,！
 EOS
 ［	記号,括弧開,*,*,*,*,［,［,［
 ＃	名詞,サ変接続,*,*,*,*,*
 ここ	名詞,代名詞,一般,*,*,*,ここ,ココ,ココ
 から	助詞,格助詞,一般,*,*,*,から,カラ,カラ
-５	名詞,数,*,*,*,*,５,ゴ,ゴ
-字	名詞,接尾,助数詞,*,*,*,字,ジ,ジ
+５	名詞,数,*,*,*,*,５,ゴ,ゴ	normalisable: left unnormed due to ambiguity, same form kept
+字	名詞,接尾,助数詞,*,*,*,字,ジ,ジ	normalisable: left unnormed due to ambiguity, same form kept
 下げ	動詞,自立,*,*,一段,連用形,下げる,サゲ,サゲ	normalisable: left unnormed due to ambiguity, same form kept
 、	記号,読点,*,*,*,*,、,、,、
 折り返し	動詞,自立,*,*,五段・サ行,連用形,折り返す,オリカエシ,オリカエシ
 て	助詞,接続助詞,*,*,*,*,て,テ,テ
 ６	名詞,数,*,*,*,*,６,ロク,ロク
-字	名詞,接尾,助数詞,*,*,*,字,ジ,ジ
+字	名詞,接尾,助数詞,*,*,*,字,ジ,ジ	normalisable: left unnormed due to ambiguity, same form kept
 下げ	名詞,一般,*,*,*,*,下げ,サゲ,サゲ
 ］	記号,括弧閉,*,*,*,*,］,］,］
 EOS
@@ -949,9 +949,9 @@ EOS
 八	名詞,数,*,*,*,*,八,ハチ,ハチ
 年	名詞,接尾,助数詞,*,*,*,年,ネン,ネン
 十一月	名詞,副詞可能,*,*,*,*,十一月,ジュウイチガツ,ジューイチガツ
-作	名詞,接尾,一般,*,*,*,作,サク,サク
+作	名詞,接尾,一般,*,*,*,作,サク,サク	normalisable: left unnormed due to ambiguity, same form kept
 『	記号,括弧開,*,*,*,*,『,『,『
-戦旗	名詞,一般,*,*,*,*,戦旗,センキ,センキ
+戦旗	名詞,一般,*,*,*,*,戦旗,センキ,センキ	normalisable: left unnormed due to ambiguity, same form kept
 』	記号,括弧閉,*,*,*,*,』,』,』
 一	名詞,数,*,*,*,*,一,イチ,イチ
 九	名詞,数,*,*,*,*,九,キュウ,キュー
