@@ -16,8 +16,8 @@ def extract_all_metadata(aozoraCardDir,upTo=None):
     for cntr,cardHtml in enumerate(HtmlFps):
         if upTo and cntr>upTo:
             break
-        fn=os.path.basename(cardHtml)
-        IDStr=os.path.splitext(fn)[0].replace('card','')
+        cardFN=os.path.basename(cardHtml)
+        IDStr=os.path.splitext(cardFN)[0].replace('card','')
         assert(IDStr.isdigit())
         ID=int(IDStr)
         if ID in doneIDs:
@@ -26,6 +26,7 @@ def extract_all_metadata(aozoraCardDir,upTo=None):
         if cntr!=0 and cntr%1000==0:
             print(str(cntr)+', '+str((cntr/totalFileCnt)*100))
         metaDict,keys=extract_meta_fromhtml(cardHtml)
+        
         if metaDict is None:
             errors[keys].append(cardHtml)
             continue
@@ -34,6 +35,7 @@ def extract_all_metadata(aozoraCardDir,upTo=None):
                 cumKeysCnts[key]+=1
             else:
                 cumKeysCnts[key]=1
+
         work=metaDict['タイトルデータ']['作品名']; author=metaDict['作家データ']['作家名']
         workAuthPair=(work,author)
         if workAuthPair in doneWorkAuthPairs:
@@ -41,9 +43,20 @@ def extract_all_metadata(aozoraCardDir,upTo=None):
             errors['duplicate'].append(cardHtml)
         else:
             doneWorkAuthPairs[workAuthPair].append(ID)
-        idsMetas[ID]=metaDict
+        idsMetas[ID]=(metaDict,get_filedata(ID,aozoraCardDir))
     return idsMetas,cumKeysCnts,errors
     
+def get_filedata(ID,Dir):
+    workHtmls=glob.glob(os.path.join(Dir,'files',ID+'*.html'))
+    workTexts=glob.glob(os.path.join(Dir,'files',ID+'*.txt'))
+    if len(workHtmls)!=0:
+        print('sth wrong')
+        return None
+    else:
+        htmlData=(os.path.basename(workHtmls[0]),sys.getsizeof(workHtmls[0]))
+    textData=None if len(workTexts)!=0 else (os.path.basename(workTexts[0]),sys.getsizeof(workTexts[0]))
+
+    return htmlData,textData
 
 def extract_meta_fromhtml(htmlfp):
     fn=os.path.basename(htmlfp)
